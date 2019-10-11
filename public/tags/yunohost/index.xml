@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>yunohost on Bonehead Media</title>
+    <link>https://boneheadmedia.com/tags/yunohost/</link>
+    <description>Recent content in yunohost on Bonehead Media</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyleft © 2019, All original content on this site is Creative Commons 4.0 Non Commercial-Share alike.</copyright>
+    <lastBuildDate>Mon, 01 Jul 2019 07:45:31 -0400</lastBuildDate>
+    
+	<atom:link href="https://boneheadmedia.com/tags/yunohost/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Now With Less Google</title>
+      <link>https://boneheadmedia.com/post/truckinnutz/now-with-less-google/</link>
+      <pubDate>Mon, 01 Jul 2019 07:45:31 -0400</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/truckinnutz/now-with-less-google/</guid>
+      <description>Hopefully by the end of the week I will be 100% Google free. The only exception is on my phone. I am no longer using gmail except for a couple of login that I need to change and am working on porting all my emails over to my new email. Im also switching to the News app on Nextcloud for my rss reader and am deciding on whether or not I want to use Nextclouds Music app for my music library.</description>
+    </item>
+    
+  </channel>
+</rss>

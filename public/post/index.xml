@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Bonehead Media</title>
+    <link>https://boneheadmedia.com/post/</link>
+    <description>Recent content in Posts on Bonehead Media</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyleft © 2019, All original content on this site is Creative Commons 4.0 Non Commercial-Share alike.</copyright>
+    <lastBuildDate>Sun, 08 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://boneheadmedia.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ep10 Communication on Yunohost</title>
+      <link>https://boneheadmedia.com/post/tshp/2019-09-08-ep10-communitcation-on-yunohost/</link>
+      <pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshp/2019-09-08-ep10-communitcation-on-yunohost/</guid>
+      <description>Download Mp3
+Pre-roll The last couple of weeks I&amp;rsquo;ve seen on these message signs over the highways the phrase &amp;ldquo;Turn signals-the original instant message&amp;rdquo;. And the talk on the CB radio was hilarious as you can imagine. But the one thing all of us truck drivers agree on is that the turn signal is not the original instant messsage. It&amp;rsquo;s the middle finger. And speaking of instant messenges this is Ep10:Communication on Yunohost right here, right now on The Self Hosted Podcast.</description>
+    </item>
+    
+    <item>
+      <title>Ep9Getting Help with Your Yunohost</title>
+      <link>https://boneheadmedia.com/post/tshp/2019-09-01-ep9-getting-help-with-yunohost/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshp/2019-09-01-ep9-getting-help-with-yunohost/</guid>
+      <description>Ep 9  Download Mp3 Download two songs from me for free! CC4.0! Play them in your podcast if you have one! Hammer On Down Work It Out
+Pre Roll I was at a TA truckstop earlier this week. And they had a Verizon kiosk inside and there was actually a Verizon employee there. I may have jokingly asked him if he had any phones that didnt have ios or android on them.</description>
+    </item>
+    
+    <item>
+      <title>How I record my Podcasts</title>
+      <link>https://boneheadmedia.com/post/tshv/tshvep5/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshv/tshvep5/</guid>
+      <description>To be honest, this should be a &amp;ldquo;Dont drink and vidcast&amp;rdquo; video. I may or may not have had a couple of beers before recording this. This how I record all of my podcasts, whether I&amp;rsquo;m at home in the studio or on the road in the truck. The process and apps are all the same.</description>
+    </item>
+    
+    <item>
+      <title>What I am currently using on my Yunohost</title>
+      <link>https://boneheadmedia.com/post/tshv/tshvep6/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshv/tshvep6/</guid>
+      <description>Just me showing you what I am currently using on my own home server. Airsonic Grav Flat File CMS Searx Roundcube Nextcloud PeerTube TTRss</description>
+    </item>
+    
+    <item>
+      <title>Ep8 Commit2Quit</title>
+      <link>https://boneheadmedia.com/post/tshp/2019-08-25-ep8-commit2quit/</link>
+      <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshp/2019-08-25-ep8-commit2quit/</guid>
+      <description>Ep8 Commit2Quit  Download Here
+Housekeeping It seems that this podcasts goal has already been achieved. It has inspired 2 people to start self hosting. I got a couple of notifications on Mastodon that one is researching on how to self host on bsd and the other actually installed Yunohost! Thats frickin AWESOME! CONGRATS TO BOTH OF YOU! And I sincerely hope it works out for each your situations. Especially the one doing it on bsd.</description>
+    </item>
+    
+    <item>
+      <title>Ep7 Securering Your Yunohost Server</title>
+      <link>https://boneheadmedia.com/post/tshp/2019-08-18-ep7-security/</link>
+      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshp/2019-08-18-ep7-security/</guid>
+      <description>Ep7 Security  Download Mp3
+Housekeeping I just recorded episode 4 of The Self Hosted Vidcast. I uninstalled Wordpress and showed how to install a static html site on Yunohost. Bonehead Media is back to being a simple static html site. It&amp;rsquo;s only got 2 pages that I built in Bootstrap Studio. I&amp;rsquo;ll flesh it out more in the future. I would like to turn it into a theme for Pelican or Hugo and post the shownotes to the front page.</description>
+    </item>
+    
+    <item>
+      <title>How to remove Wordpress from Yunohost</title>
+      <link>https://boneheadmedia.com/post/tshv/tshvep4/</link>
+      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshv/tshvep4/</guid>
+      <description>This is how you uninstall Wordpress and install a static html site to Yunohost. Get Yunohost - https://yunohost.org</description>
+    </item>
+    
+    <item>
+      <title>Ep6 How to Take Back Control</title>
+      <link>https://boneheadmedia.com/post/tshp/2019-08-12-ep6-how/</link>
+      <pubDate>Mon, 12 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshp/2019-08-12-ep6-how/</guid>
+      <description>Ep6 How to take back control  Download Here
+How to take back control https://switching.social/guide-to-switching/
+First we need to look at what we need to replace to rid our lives of these companies. 1. Communication/Email/Chat/Conferancing 2. Office/Doc/Colaboration 3. File storage/Sharing 4. News 5. Social Networking 6. Education 7. Entertainment
+To truly get rid of Google you will need to replace your Android phone! More on this towards the end. These can all be covered using some ethical and free companies such as Framasoft.</description>
+    </item>
+    
+    <item>
+      <title>Ep5 Getting Back Control</title>
+      <link>https://boneheadmedia.com/post/tshp/2019-08-11-ep5-control/</link>
+      <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshp/2019-08-11-ep5-control/</guid>
+      <description>Ep5 Getting Back Control  Download Here
+I&amp;rsquo;m gonna be totally honest with you. I didnt really think the course of this podcast through before starting it. I got excited when I found out about Yunohost and went totally ADD thinking that people have to know about this distro! I just hit record and started talking without thinking. I didnt put any kind of structure into it or really any kind of planning.</description>
+    </item>
+    
+    <item>
+      <title>Install Wordpress on Yunohst</title>
+      <link>https://boneheadmedia.com/post/tshv/tshvep3/</link>
+      <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshv/tshvep3/</guid>
+      <description>Look how easy it is to install Wordpress on Yunohost! It only actually took minutes and minimal attention from me. But because I cant never shut up it made a 30 minute video.</description>
+    </item>
+    
+    <item>
+      <title>Ep4 The Internet Cube</title>
+      <link>https://boneheadmedia.com/post/tshp/2019-08-04-ep4-the-internet-cube/</link>
+      <pubDate>Sun, 04 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshp/2019-08-04-ep4-the-internet-cube/</guid>
+      <description>Ep4 The Internet Cube  Download Mp3 #### Rethinking the direction of the podcast I&amp;rsquo;ve been doing some major thinking about the direction of where I want to take this podcast. I was listening to one of the episodes as I usually do. Us podcasters do that alot. Listen to ourselves in order to critique our abililites. We&amp;rsquo;re not really that self important, we are are our worst and toughest critics.</description>
+    </item>
+    
+    <item>
+      <title>Ep3 Why You Should Know DNS</title>
+      <link>https://boneheadmedia.com/posts/ep3-dns/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://boneheadmedia.com/posts/ep3-dns/</guid>
+      <description>Ep3 Why You Should Know DNS  Download Mp3 I love the artwork for this episode! And I just had to use it when I saw it. It was created by @aleks@cybre.space. I&amp;rsquo;ve also ran across a couple of memes that I cant stop laughing at. I&amp;rsquo;ll be using those in future episodes as well. The cat is out of the bag and people are discovering the podcast. So if you are new, well I guess at this point everybody is new, lol.</description>
+    </item>
+    
+    <item>
+      <title>Ep2 Choosing Yunohost and The Fediverse</title>
+      <link>https://boneheadmedia.com/posts/ep2-choosing-yunohost/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://boneheadmedia.com/posts/ep2-choosing-yunohost/</guid>
+      <description>Ep2 Choosing Yunohost and The Fediverse 
+Download Episode #### What it is If you&amp;rsquo;ve ever messed with Linux you have undoubtedly experienced the dreaded (but fun) thing called &amp;ldquo;distro hopping&amp;rdquo;. Where you constantly download and install tons of different distros and use them to see what they are like and how well they run. Hell you may be running 3-4 of them on a pc at any given time.</description>
+    </item>
+    
+    <item>
+      <title>Ep1 Six Questions</title>
+      <link>https://boneheadmedia.com/posts/ep1-six-questions/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://boneheadmedia.com/posts/ep1-six-questions/</guid>
+      <description>Ep1 Six Questions 
+Download Mp3 Who, what, where, when, why and how.
+Who am I? Greetings! If this is the first time you&amp;rsquo;ve ever ran across me I am Unkle Bonehead and welcome to the Self Hosted Podcast, a journey into taking control of your data and entering the Fediverse. It&amp;rsquo;s not only my journey but it just might be yours as well.
+Why? Because large corporations such as Google, Facebook, Twitter, Amazon, etc have your data in their control.</description>
+    </item>
+    
+    <item>
+      <title>Yunohst Post Intall</title>
+      <link>https://boneheadmedia.com/post/tshv/tshvep2/</link>
+      <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshv/tshvep2/</guid>
+      <description>The step called &amp;ldquo;post-installation&amp;rdquo; is actually the initial configuration of YunoHost. It has to be done just after the installation of the system itself. You can do it from through ssh, directly on the server or through a web browser. The browser is what I did because it is the easiest for people like me. Who dont know what they are doing.
+Post-Installation The step called &amp;ldquo;post-installation&amp;rdquo; is actually the initial configuration of YunoHost.</description>
+    </item>
+    
+    <item>
+      <title>Installing Yunohost</title>
+      <link>https://boneheadmedia.com/post/tshv/tshvep1/</link>
+      <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshv/tshvep1/</guid>
+      <description>Talking about and installing Yunohost. I used virtualbox instead of an actual machine but the process is the same. Step1 - Make coffee Step2 - Download the correct iso for your machine Step3 - Install</description>
+    </item>
+    
+    <item>
+      <title>Now With Less Google</title>
+      <link>https://boneheadmedia.com/post/truckinnutz/now-with-less-google/</link>
+      <pubDate>Mon, 01 Jul 2019 07:45:31 -0400</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/truckinnutz/now-with-less-google/</guid>
+      <description>Hopefully by the end of the week I will be 100% Google free. The only exception is on my phone. I am no longer using gmail except for a couple of login that I need to change and am working on porting all my emails over to my new email. Im also switching to the News app on Nextcloud for my rss reader and am deciding on whether or not I want to use Nextclouds Music app for my music library.</description>
+    </item>
+    
+    <item>
+      <title>Huge Update</title>
+      <link>https://boneheadmedia.com/post/truckinnutz/huge-update/</link>
+      <pubDate>Sun, 30 Jun 2019 17:29:28 -0400</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/truckinnutz/huge-update/</guid>
+      <description>This is huge. I mean super big huge!
+So I am actually putting my money where my mouth is. I&amp;rsquo;ve been loathing the bull shit of Google, Facebook, Youtube and prettty much every large corporate giants out there that want to use its &amp;ldquo;users&amp;rdquo; as products to sell to their advertisers and shareholders. So I went and did it. But all in on this thing this time. I&amp;rsquo;ve embraced the &amp;ldquo;self hosting&amp;rdquo; concept and am running everything myself right down to the email.</description>
+    </item>
+    
+    <item>
+      <title>Pound for Pound</title>
+      <link>https://boneheadmedia.com/post/break19/pound-for-pound/</link>
+      <pubDate>Sun, 16 Jun 2019 16:29:52 -0400</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/break19/pound-for-pound/</guid>
+      <description>Audio only player at bottom of post
+   Another audio only episode. But I did throw in some extra footage I shot a couple years ago while driving Clifford for the Youtube viewers. Plus this episode was greatly improved. Now contains MORE WOLFIE!
+You can find us on Apple Podcasts, Google Podcasts and Spotify as well as where ever free podcasts are sold!
+Email us at break19podcast@gmail.com</description>
+    </item>
+    
+    <item>
+      <title>Break19 Podcast Anybody Got a Copy</title>
+      <link>https://boneheadmedia.com/post/break19/break19-podcast-anybody-got-a-copy/</link>
+      <pubDate>Sun, 16 Jun 2019 16:29:29 -0400</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/break19/break19-podcast-anybody-got-a-copy/</guid>
+      <description>Audio only player at bottom of post
+  Man sues parents for getting rid of huge porno collection. Mrs Bonehead submitted this.
+www.wthr.com/article/man-sues-parents-getting-rid-his-vast-porn-collection-1
+Social media users flocked to Pornhub during major Facebook, Instagram outages www.theblaze.com/news/pornhub-traffic-surce-during-facebook-outage
+71% of Drivers Take Photos of Roadway Emergencies www.automotive-fleet.com/328847/71-of-drivers-take-photos-of-roadway-emergencies
+Phone Addicts Worse Threat Than Drunk Drivers, Study Finds www.automotive-fleet.com/329295/phone-addicts-worse-threat-than-drunk-drivers-study-finds
+Driver Awarded $80 Million
+www.truckersnews.com/driver-award-80m-in-false-log-accident-suit/
+DOT&amp;rsquo;s hours of service proposal listed for early June publication</description>
+    </item>
+    
+    <item>
+      <title>Truckinnutz Is on Hiatus</title>
+      <link>https://boneheadmedia.com/post/truckinnutz/truckinnutz-is-on-hiatus/</link>
+      <pubDate>Sun, 16 Jun 2019 16:13:10 -0400</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/truckinnutz/truckinnutz-is-on-hiatus/</guid>
+      <description>Another quick update is that I have put TruckinNutz on hiatus for a unknown amount of time. I have started a new podcast with the boys of Trucker Nation, USA called Break 19 Podcast. We have esentially merged the two together and have already recorded a couple of episodes. We intended it to be available as a videocast but I think we will end up just making it a good old fashioned audio podcast since the first couple of episodes have already turned out to be audio.</description>
+    </item>
+    
+    <item>
+      <title>NTROradio Is Cancelled-Maybe Not</title>
+      <link>https://boneheadmedia.com/post/ntroradio/ntroradio-is-cancelled/</link>
+      <pubDate>Sun, 16 Jun 2019 16:06:55 -0400</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/ntroradio/ntroradio-is-cancelled/</guid>
+      <description>Update as of 2019-10-5 I am currently researching how to get the stream back up for as cheap as possible. I will be returning the podcast soon and may well do some posts of artists as well. Keep and eye both here and NTROradio I have cancelled NTROradio. Both the podcast and the station. The station was run on Radionomy and since they ceased operations in the USA and forced everybody to move to paid versions of Shoutcast I am unable to afford it.</description>
+    </item>
+    
+    <item>
+      <title>01 25 19 Pretrip Pt2 The Approach</title>
+      <link>https://boneheadmedia.com/post/truckinnutz/01-25-19-pretrip-pt2-the-approach/</link>
+      <pubDate>Sun, 27 Jan 2019 10:30:43 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/truckinnutz/01-25-19-pretrip-pt2-the-approach/</guid>
+      <description>As I said in the intro this is just how I do it. Some of you might do it differently but this is the way I was taught. I’ve seen a lot of old timers do it this as well. And it also kinda helps with the eld since you have to show 7-12 minutes doing a pre trip. Here is my steps as if I am on the road for the week already.</description>
+    </item>
+    
+    <item>
+      <title>01 18 19 Quit Hating on Anchor</title>
+      <link>https://boneheadmedia.com/post/truckinnutz/01-18-19-quit-hating-on-anchor/</link>
+      <pubDate>Sun, 27 Jan 2019 10:30:06 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/truckinnutz/01-18-19-quit-hating-on-anchor/</guid>
+      <description>Why do people start a podcast? Some do it because its fun to talk. Others do it because there is subject that are passionate about and cant stop talking about it. But more and more I&amp;rsquo;m finding people starting podcasts with the intention of making money from that podcast. And I want to talk to you. Please, for the love of god. Stop! Podcasting started out as just people sharing on the internet.</description>
+    </item>
+    
+    <item>
+      <title>01 18 19 Pretrip Pt1</title>
+      <link>https://boneheadmedia.com/post/truckinnutz/01-18-19-pretrip-pt1/</link>
+      <pubDate>Sun, 27 Jan 2019 10:29:29 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/truckinnutz/01-18-19-pretrip-pt1/</guid>
+      <description>Let’s start with a question.
+What is the most important thing on the truck? YOU!
+Why?
+Because you are important. Your family is depending on you. Your customers are depending on you. The general public is depending on you. You need to look at it as part of your job.
+Can you safely operate that 40 ton truck?
+Are you sick? Feel like throwing up? Don’t drive.
+Are you tired?</description>
+    </item>
+    
+    <item>
+      <title>01 17 19 Dont Do This in Your Car</title>
+      <link>https://boneheadmedia.com/post/truckinnutz/01-17-19-dont-do-this-in-your-car/</link>
+      <pubDate>Sun, 27 Jan 2019 10:28:31 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/truckinnutz/01-17-19-dont-do-this-in-your-car/</guid>
+      <description>Today I talk about 5 things people do in a car around big trucks that can end up with deadly consequences. And no thats not a click bait headline. These things are very important to know
+ Dont pull in front of a truck only to make a left turn Dont Slow down to pass/speed up when being passed. Maintain your speed.
+ Dont Pass only to slow down in front/pace truck from the front/”keep that driver from speeding”</description>
+    </item>
+    
+    <item>
+      <title>01 11 19 A Rough Week</title>
+      <link>https://boneheadmedia.com/post/truckinnutz/01-11-19-a-rough-week/</link>
+      <pubDate>Sun, 27 Jan 2019 10:27:31 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/truckinnutz/01-11-19-a-rough-week/</guid>
+      <description>Sorry I was AWOL this week. I&amp;rsquo;ve had the flu.</description>
+    </item>
+    
+    <item>
+      <title>01-06-18 Safety on the Road</title>
+      <link>https://boneheadmedia.com/post/truckinnutz/01-06-18-safety-on-the-road/</link>
+      <pubDate>Sun, 06 Jan 2019 14:18:46 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/truckinnutz/01-06-18-safety-on-the-road/</guid>
+      <description>You can now support me directly please visit https://anchor.fm/TruckinNutz/support
+This episode was originally produced back in 2017.</description>
+    </item>
+    
+    <item>
+      <title>01-04-19 All Brokers Lie</title>
+      <link>https://boneheadmedia.com/post/truckinnutz/01-04-19-all-brokers-lie/</link>
+      <pubDate>Sat, 05 Jan 2019 09:22:41 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/truckinnutz/01-04-19-all-brokers-lie/</guid>
+      <description>All Brokers Lie. It&amp;rsquo;s just a fact of our industry but drivers, even company drivers have got to stand up to them. Don&amp;rsquo;t let them just treat you like a second class citizen and work for free. You have the right to ask for detention pay. Talk with your companies dispatch! Also check out the Trucker Nation USA podcast. Another great podcast here on Anchor.fm</description>
+    </item>
+    
+    <item>
+      <title>12-30-18Sunday Morning Coffee</title>
+      <link>https://boneheadmedia.com/post/truckinnutz/12-30-sunday-morning/</link>
+      <pubDate>Sat, 05 Jan 2019 09:20:09 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/truckinnutz/12-30-sunday-morning/</guid>
+      <description>A quick review of Netfix&amp;rsquo;s Bird Box, my opinion on the stupid argument of the &amp;ldquo;Legends of Podcasting&amp;rdquo; bad mouthing Anchor. How They have based to their argument from a false perspective and the future of TruckinNutz and my other podcast Driving Common Sense.</description>
+    </item>
+    
+    <item>
+      <title>12 28 Happy Friday</title>
+      <link>https://boneheadmedia.com/post/truckinnutz/12-28-happy-friday/</link>
+      <pubDate>Sat, 05 Jan 2019 09:17:20 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/truckinnutz/12-28-happy-friday/</guid>
+      <description>Yesterday went to hell, wife broke her arm, the podcast is distributed to more places and I gotta fricking work this weekend. All that and more on trays episode! You can email me at unklebonehead@pm.me. You can find me on Facebook, Twitter, Instagram, Minds.com etc. Do you have a question about truck driving and using the Anchor.fm app? Just send me a message right from the app and I am happy to answer anything!</description>
+    </item>
+    
+    <item>
+      <title>Hardest Part About Trucking</title>
+      <link>https://boneheadmedia.com/post/truckinnutz/hardest-part-about-trucking/</link>
+      <pubDate>Sat, 05 Jan 2019 09:07:03 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/truckinnutz/hardest-part-about-trucking/</guid>
+      <description>Home time is the hardest. You get home and have to unwind. You don&amp;rsquo;t want to be socialable. You don&amp;rsquo;t want to talk with anybody. Then when you do unwind and are ready to be socialable it&amp;rsquo;s time to get back into trucking mode and the depression and anxiety of having to leave sets in.</description>
+    </item>
+    
+    <item>
+      <title>Ntroradio 15</title>
+      <link>https://boneheadmedia.com/post/ntroradio/ntroradio-15/</link>
+      <pubDate>Sat, 05 Jan 2019 08:34:33 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/ntroradio/ntroradio-15/</guid>
+      <description>Introducing K.C. the new host that replaces Zira. Music is entirely from CCMixter.
+Shameless Site Promotion by Platinum Butterfly © copyright 2012 Licensed under a Creative Commons Attribution Noncommercial (3.0) license. http://dig.ccmixter.org/files/F_Fact/38008 Ft: Alex, Ms. Vybe
+Speaking Power to Truth by Hans Atom © copyright 2013 Licensed under a Creative Commons Attribution Noncommercial (3.0) license. http://dig.ccmixter.org/files/hansatom/43773 Ft: Lonnie Ray Atkinson
+(Let’s) Get UPPPPPPPPPPPPPPP! by CSoul © copyright 2012 Licensed under a Creative Commons Noncommercial Sampling Plus license.</description>
+    </item>
+    
+    <item>
+      <title>The Most Important Device for a Driver</title>
+      <link>https://boneheadmedia.com/post/truckinnutz/cb-importantance/</link>
+      <pubDate>Tue, 01 Jan 2019 16:17:44 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/truckinnutz/cb-importantance/</guid>
+      <description>EPISODE NOTES So just a disclaimer if this is the first episode you’ve ever heard there is most likely a cuss word or two that gets thrown out once or twice. So I apologize in advance. But I do try to keep the show family friendly. This week I’m going to talk about a well documented and well proven piece of technology called the Citizens Band Radio. It can help you with your daily work better than any app on any phone operating system.</description>
+    </item>
+    
+    <item>
+      <title>12 31 18 Trucker Lingo</title>
+      <link>https://boneheadmedia.com/post/truckinnutz/12-31-18-trucker-lingo/</link>
+      <pubDate>Mon, 31 Dec 2018 17:24:11 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/truckinnutz/12-31-18-trucker-lingo/</guid>
+      <description>Trucking​ ​ Vocabulary Basically two​ ​types of trucks - Conventional​ ​- ​A ​truck​ ​with​ ​the​ engine​ ​mounted​ ​in​ ​front​ ​of​ ​ the​ ​cab. ​Has​ a ​nose - Cabover​ ​- ​A ​truck​ ​with​ the​ ​engine​ ​mounted​ ​between​ ​the​ frame​ rails​ ​and​ under​ the​ ​cab.
+Manufacturers These​ are​ ​the​ class​ ​8 ​tractor/trailer​ ​makers. 1. Peterbuilt​ ​- Pete,​ Petercar 2. Freightliner​ - Freightshaker 3. Kenworth​ ​- ​Kwhopper 4. International​ ​- ​13​ ​letter​ ​shit​ spreader,​ ​corn​ ​binder 5.</description>
+    </item>
+    
+    <item>
+      <title>12 31 18 History of Trucking</title>
+      <link>https://boneheadmedia.com/post/truckinnutz/12-31-18-history/</link>
+      <pubDate>Mon, 31 Dec 2018 17:19:32 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/truckinnutz/12-31-18-history/</guid>
+      <description>In this episode we get a special visit from Clifford the Big Red Truck.
+I thank you all for the really quick acceptance of the podcast. 1 week and 35 downloads as of this posting! THANK YOU!
+I give a really quick history lesson of the trucking industry.
+You can email me questions or comments to unklebonehead2017@gmail.com
+Subscribe to us on iTunes, Google Play Music, Stitcher, Tunein and Spreaker!</description>
+    </item>
+    
+    <item>
+      <title>12-31-18 Clifford Takes Over</title>
+      <link>https://boneheadmedia.com/post/truckinnutz/12-31-18-clifford-takes-over/</link>
+      <pubDate>Mon, 31 Dec 2018 16:57:13 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/truckinnutz/12-31-18-clifford-takes-over/</guid>
+      <description>In this episode we discover that Cliford has quite the sense of humor and has some semblance of emotions.
+We also learn that his name stands for Certified Linux Intelligence For Organix Research and Development.
+He is a 2nd generation A.I.known as an Organix organism from the year 2034.
+Plus stats on the Freightliner Classic XL that he is embedded into.</description>
+    </item>
+    
+    <item>
+      <title>Ntroradio 14</title>
+      <link>https://boneheadmedia.com/post/ntroradio/ntroradio-14/</link>
+      <pubDate>Mon, 26 Nov 2018 07:00:13 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/ntroradio/ntroradio-14/</guid>
+      <description>Band Name: Andy Michaels Album Name: Where are you Now Year Released: 2017 Website: www.andymichaelsmusic.com Music Style: Adult Contemporary Influences: Cold Play Sound Like: Maroon 5 Performing Rights Society: APRA (AUSTRALIA) Label Affiliation: Unsigned Geographic Hometown: Perth, Australia  Band Description: A singer/songwriter from Australia who has been compared with Live, James Blunt, The Script, Cat Stevens, and Neil Young , whilst his arrangements and music are also reminiscent of Cold Play, Maroon 5, Pink Floyd and Peter Gabriel.</description>
+    </item>
+    
+    <item>
+      <title>NTROradio 13</title>
+      <link>https://boneheadmedia.com/post/ntroradio/ntroradio-13/</link>
+      <pubDate>Mon, 26 Nov 2018 06:56:45 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/ntroradio/ntroradio-13/</guid>
+      <description>Band Name: Henry Metal Album Name: War In Heaven Albun Released 2018 Website: www.henrymetal.net Music Style: Alt Rock / Metal Influences: Megadeth Sounds Like: Dio Performing Rights Society:None listed Label Affiliation: Unsigned Geographic Hometown: Chicago, USA  Band Description: Henry Metal is one of the most exciting new artists in rock and his new album, &amp;ldquo;War In Heaven,&amp;rdquo; was out everywhere January 1, 2018. Henry Metal debuted in late March of 2017 with the release of 2 singles, “Butthead Maven” and “Boss of Me,” both of which would appear on his first album “So It Hath Begun.</description>
+    </item>
+    
+    <item>
+      <title>Ntroradio 12</title>
+      <link>https://boneheadmedia.com/post/ntroradio/ntroradio-12/</link>
+      <pubDate>Mon, 26 Nov 2018 06:47:04 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/ntroradio/ntroradio-12/</guid>
+      <description>***Editor&amp;rsquo;s note: When I first published this episode I had the intention of no longer podcasting about music. Well, I changed my mind. ***
+Hi, You know me and you know how much I love indie music. I am going to have to say that this is the hardest podcast episode I’ve ever recorded. As much as I love introducing people to new music and the amazing artists that create it I am going to bring it all to an end.</description>
+    </item>
+    
+    <item>
+      <title>NTROradio 11</title>
+      <link>https://boneheadmedia.com/post/ntroradio/ntroradio-11/</link>
+      <pubDate>Mon, 26 Nov 2018 06:46:56 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/ntroradio/ntroradio-11/</guid>
+      <description>Murkocet is an American heavy metal band based out of Phoenix, Arizona. Formed in 2013, the band’s debut album ‘Digging Mercy’s Grave’ was released on January 14, 2017. The album consists of eleven tracks, two of which have been aired on Phoenix’s 98KUPD “Into The Pit” and another that was chosen by indie horror film director, Bob Clark of Reel Bloody Films to be the title track of his movie, ‘Strip Club Massacre’.</description>
+    </item>
+    
+    <item>
+      <title>Ntroradio 10</title>
+      <link>https://boneheadmedia.com/post/ntroradio/ntroradio-10/</link>
+      <pubDate>Mon, 26 Nov 2018 06:25:56 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/ntroradio/ntroradio-10/</guid>
+      <description>Irish born Darragh J Brady is a rock steady musician and writer who is not afraid to go out on the edge if it means bringing something good back from it.
+Dar.Ra has graced the UK national charts and dance charts with two top 40’s and two number one dance records with acts signed to EMI, BMG, Festival Records (Australia) plus remixed legends like Frankie Goes to Hollywood, Tears 4 Fears, Urban Harmonix ft Rachel Brown (Faithless, Groove Armada) and many others along the way.</description>
+    </item>
+    
+    <item>
+      <title>Ntroradio 09</title>
+      <link>https://boneheadmedia.com/post/ntroradio/ntroradio-09/</link>
+      <pubDate>Mon, 26 Nov 2018 06:25:49 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/ntroradio/ntroradio-09/</guid>
+      <description>All Chile Colorado</description>
+    </item>
+    
+    <item>
+      <title>Ntroradio 08</title>
+      <link>https://boneheadmedia.com/post/ntroradio/ntroradio-08/</link>
+      <pubDate>Mon, 26 Nov 2018 06:25:42 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/ntroradio/ntroradio-08/</guid>
+      <description>All Dizzy Box Nine</description>
+    </item>
+    
+    <item>
+      <title>Ntroradio 07</title>
+      <link>https://boneheadmedia.com/post/ntroradio/ntroradio-07/</link>
+      <pubDate>Mon, 26 Nov 2018 06:25:34 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/ntroradio/ntroradio-07/</guid>
+      <description>Featuring Terminal Degree! Awesome metal played on Cello and Electric Violins!</description>
+    </item>
+    
+    <item>
+      <title>Ntroradio 06</title>
+      <link>https://boneheadmedia.com/post/ntroradio/ntroradio-06/</link>
+      <pubDate>Mon, 26 Nov 2018 06:25:27 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/ntroradio/ntroradio-06/</guid>
+      <description>Featuring Wally Maggs, Charissa and King George</description>
+    </item>
+    
+    <item>
+      <title>Ntroradio 05</title>
+      <link>https://boneheadmedia.com/post/ntroradio/ntroradio-05/</link>
+      <pubDate>Mon, 26 Nov 2018 06:20:03 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/ntroradio/ntroradio-05/</guid>
+      <description>Hence the Noise - Minute with Me - My Demise Cody Joe Hodges
+- Roll That Way</description>
+    </item>
+    
+    <item>
+      <title>Ntroradio 04</title>
+      <link>https://boneheadmedia.com/post/ntroradio/ntroradio-04/</link>
+      <pubDate>Mon, 26 Nov 2018 05:59:51 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/ntroradio/ntroradio-04/</guid>
+      <description>This weeks artists Hosted by Rich
+Xavier Boscher 1. Metronome Celeste 2. Quinachridone
+Mightier Than Me 1. To Be Determined 2. Get Gone
+Rewind Segment Hosted by Zira
+Black Dawn 1. I Could Never Be 2. I Want To Fly</description>
+    </item>
+    
+    <item>
+      <title>Ntroradio 03</title>
+      <link>https://boneheadmedia.com/post/ntroradio/ntroradio-03/</link>
+      <pubDate>Mon, 26 Nov 2018 05:59:43 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/ntroradio/ntroradio-03/</guid>
+      <description>Unkle Bonehead Couldnt make it this episode so Zira filled in for him.
+The C. R. Ecker Band – Duty, Honor, Country and Good Ol’ Days
+Ronnie Clinton – Southern Pride
+Plus a new segment called NTROradio Rewind. Songs from our vault.
+Carolina Morn – America Stands</description>
+    </item>
+    
+    <item>
+      <title>Ntroradio 02</title>
+      <link>https://boneheadmedia.com/post/ntroradio/ntroradio-02/</link>
+      <pubDate>Mon, 26 Nov 2018 05:59:27 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/ntroradio/ntroradio-02/</guid>
+      <description>Featuring:
+Christopher Hawley - 9 Tattoos
+Braintenna - Crown
+Voice of Addiction – Corporate Pariah
+A DOUBLE SHOT! Fractured Spine 1. Have Earned My Despair 2. Still Beating
+For some awesome interviews with Indie artists I suggest you check out the podcast Backstage at Nadeau media</description>
+    </item>
+    
+    <item>
+      <title>Ntroradio 01</title>
+      <link>https://boneheadmedia.com/post/ntroradio/ntroradio-01/</link>
+      <pubDate>Sun, 17 Sep 2017 04:00:31 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/ntroradio/ntroradio-01/</guid>
+      <description>DOUBLE SHOT!! Mike Thompson Little Dreamer Thunder Island feat. Collin Raye
+Vovkulaka Defy
+For some awesome interviews with Indie artists I suggest you check out the podcast Backstage at Nadeau media</description>
+    </item>
+    
+  </channel>
+</rss>

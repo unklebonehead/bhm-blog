@@ -1,0 +1,430 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+        <meta property="og:title" content="Yunohst Post Intall" />
+<meta property="og:description" content="The step called &ldquo;post-installation&rdquo; is actually the initial configuration of YunoHost. It has to be done just after the installation of the system itself. You can do it from through ssh, directly on the server or through a web browser. The browser is what I did because it is the easiest for people like me. Who dont know what they are doing.
+Post-Installation The step called &ldquo;post-installation&rdquo; is actually the initial configuration of YunoHost." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://boneheadmedia.com/post/tshv/tshvep2/" />
+<meta property="article:published_time" content="2019-07-27T00:00:00+00:00" />
+<meta property="article:modified_time" content="2019-07-27T00:00:00+00:00" />
+
+        <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Yunohst Post Intall"/>
+<meta name="twitter:description" content="The step called &ldquo;post-installation&rdquo; is actually the initial configuration of YunoHost. It has to be done just after the installation of the system itself. You can do it from through ssh, directly on the server or through a web browser. The browser is what I did because it is the easiest for people like me. Who dont know what they are doing.
+Post-Installation The step called &ldquo;post-installation&rdquo; is actually the initial configuration of YunoHost."/>
+
+        
+        <title>
+  Yunohst Post Intall | Bonehead Media
+</title>
+
+        <link rel="icon" type="image/png" href='https://boneheadmedia.com/images/favicon-16x16.png' sizes="16x16">
+        <link rel="icon" type="image/png" href='https://boneheadmedia.com/images/favicon-32x32.png' sizes="32x32">  
+
+        <link href="https://fonts.googleapis.com/css?family=Oswald:400" rel="stylesheet">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">      
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+        
+        
+        
+        
+
+        <link rel="stylesheet" href="https://boneheadmedia.com/css/bundle.min.7ca6cd3bb53a831d18b6183000ae658b8d6f672f7acab1b00f788e5fe8b5d844.css" integrity="sha256-fKbNO7U6gx0YthgwAK5li41vZy96yrGwD3iOX&#43;i12EQ="  />
+
+        
+    <link rel="icon" type="image/png" href="https://boneheadmedia.com/images/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="https://boneheadmedia.com/images/favicon-32x32.png" sizes="32x32">
+
+<link rel="alternate" type="application/rss+xml" href='https://boneheadmedia.com/index.xml' />
+
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name="author" content="" />
+<meta name="copyright" content="Copyleft © 2019, All original content on this site is Creative Commons 4.0 Non Commercial-Share alike." />
+
+
+<meta name="description" content="The step called &amp;ldquo;post-installation&amp;rdquo; is actually the initial configuration of YunoHost. It has to be done just after the installation of the system itself. You can do it from through ssh, directly on the server or through a web browser. The browser is what I did because it is the easiest for people like me. Who dont know what they are doing.
+Post-Installation The step called &amp;ldquo;post-installation&amp;rdquo; is actually the initial configuration of YunoHost.">
+
+
+    
+    <style type="text/css">
+        .feature-image {
+            background-image: url("https://boneheadmedia.com/img/bhm3.png");
+            height: 500px;
+        }
+
+        @media (max-width: 800px) {
+            .feature-image {
+                height: 300px;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .feature-image {
+                height: 250px;
+            }
+        }
+
+        @media (max-width: 576px) {
+            .feature-image {
+                height: 200px;
+            }
+        }
+    </style>
+    
+        
+    </head>
+    <body>
+        <nav class="navbar fixed-top navbar-expand-md navbar-dark bg-dark py-1 top-nav">
+            <div class="container">
+                    <a class="navbar-brand pr-2" href="https://boneheadmedia.com">BONEHEAD MEDIA</a>
+                <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                    <i class="fas fa-bars"></i>
+                </button>
+                <div class="navbar-collapse collapse" id="navbarCollapse">
+                    <ul class="navbar-nav mr-auto">
+                        <li class="nav-item">
+    <a class="nav-link active" href="https://boneheadmedia.com/categories/tshp/">TSHP</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link active" href="https://boneheadmedia.com/categories/tshv/">TSHV</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link active" href="https://boneheadmedia.com/categories/truckinnutz/">TruckinNutz</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link active" href="https://boneheadmedia.com/categories/b19/">Break19 Podcast</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link active" href="https://boneheadmedia.com/categories/ntroradio/">NTROradio Podcast</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link active" href="https://boneheadmedia.com/about/">About</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link active" href="https://boneheadmedia.com/contact/">Contact</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link active" href="https://boneheadmedia.com/support/">Support Me</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link active" href="https://boneheadmedia.com/links/">Important Links</a>
+</li>
+                    </ul>
+                    <div class="social-icons d-none d-lg-block">
+                        <a class="py-2 px-2" href="https://instagram.com/@unklebonehead"><i class="fab fa-instagram"></i></a>
+<a class="py-2 px-2" href='https://boneheadmedia.com/index.xml'><i class="fas fa-rss"></i></a>
+
+                    </div>
+                </div>
+            </div>
+        </nav>
+
+        
+<header class="feature-image d-print-none">
+</header>
+
+        
+        <div class="main">
+            
+<div class="container mt-4 post">
+    <h1>Yunohst Post Intall</h1>
+    <div class="mb-3">
+    <small>
+        <strong>By Unkle Bonehead</strong>
+        | <i class="far fa-calendar-alt"></i>&nbsp;Jul 27, 2019&nbsp;
+        | <i class="fa fa-tags" title="Tags" aria-hidden="true"></i> <a href='https://boneheadmedia.com/tags/self-hosting/'>self-hosting</a>, <a href='https://boneheadmedia.com/tags/tutorial/'>tutorial</a>
+    </small>
+</div>
+
+    <div class="share-icons d-flex justify-content-center d-print-none">
+        <a href="https://twitter.com/intent/tweet?url=https%3a%2f%2fboneheadmedia.com%2fpost%2ftshv%2ftshvep2%2f&text=Yunohst%20Post%20Intall&tw_p=tweetbutton" class="p-2" title="Share on Twitter" target="_blank" rel="nofollow">
+    <div>
+        <span class="fa-stack">
+            <i class="fas fa-circle fa-stack-2x"></i>
+            <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+        </span>
+    </div>
+    <div class="fa-inverse text-center"><small>Tweet</small></div>
+</a>
+
+<a href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fboneheadmedia.com%2fpost%2ftshv%2ftshvep2%2f&t=Yunohst%20Post%20Intall" class="p-2" title="Share on Facebook" target="_blank" rel="nofollow">
+    <div>
+        <span class="fa-stack">
+            <i class="fas fa-circle fa-stack-2x"></i>
+            <i class="fab fa-facebook fa-stack-1x fa-inverse"></i>
+        </span>
+    </div>
+    <div class="fa-inverse text-center"><small>Share</small></div>
+</a>
+
+<a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3a%2f%2fboneheadmedia.com%2fpost%2ftshv%2ftshvep2%2f&title=Yunohst%20Post%20Intall&source=mattbutton.com" class="p-2" title="Share on LinkedIn" target="_blank" rel="nofollow">
+    <div>
+        <span class="fa-stack">
+            <i class="fas fa-circle fa-stack-2x"></i>
+            <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
+        </span>
+    </div>
+    <div class="fa-inverse text-center"><small>Share</small></div>
+</a>
+
+<a href="javascript:window.print()" title="Print this article" class="p-2" target="_blank" rel="nofollow">
+    <div>
+        <span class="fa-stack">
+            <i class="fas fa-circle fa-stack-2x"></i>
+            <i class="fa fa-print fa-stack-1x fa-inverse"></i>
+        </span>
+    </div>
+    <div class="fa-inverse text-center"><small>Print</small></div>
+</a>
+    </div>
+
+    <div class="mt-4 mb-4 main-content">
+        
+
+<iframe width="560" height="315" sandbox="allow-same-origin allow-scripts" src="https://peertube.boneheadmedia.com/videos/embed/f569e4c3-01b4-4bc1-a62a-ff1e30ae006a" frameborder="0" allowfullscreen></iframe>
+
+<p>The step called &ldquo;post-installation&rdquo; is actually the initial configuration of YunoHost. It has to be done just after the installation of the system itself.
+You can do it from through ssh, directly on the server or through a web browser. The browser is what I did because it is the easiest for people like me. Who dont know what they are doing.</p>
+
+<h4 id="post-installation">Post-Installation</h4>
+
+<p>The step called &ldquo;post-installation&rdquo; is actually the initial configuration of YunoHost. It has to be done just after the installation of the system itself.
+From the web interface</p>
+
+<h5 id="you-can-perform-the-post-installation-with-the-web-interface-by-entering-in-your-browser">You can perform the post-installation with the web interface by entering in your browser :</h5>
+
+<p>the local IP address of your server if it is on your local network (e.g. at home !). The address typically looks like 192.168.x.y (see &lsquo;Find your IP&rsquo; on the page about SSH)
+the public IP address of your server if your server is not on your local network. Typically, if you own a VPS, your VPS provider should have given you the IP of the server.</p>
+
+<p>During the first visit, you will very likely encounter a security warning related to the certificate used by the server. For now, your server uses a self-signed certificate. You will later be able to add a certificate automatically recognized by web browsers as described in the certificate documentation. For now, you should add a security exception to accept the current certificate.</p>
+
+<h5 id="from-the-command-line">From the command line</h5>
+
+<p>You can also perform the postinstallation with the command directly on the server or through ssh.</p>
+
+<pre><code> yunohost tools postinstall 
+</code></pre>
+
+<h5 id="informations-asked">Informations asked</h5>
+
+<p><strong>Main domain</strong></p>
+
+<p>This is the first domain name linked to your YunoHost server, but also the one which will be used by your server&rsquo;s users to access the authentication portal. It will thus be visible by everyone, choose it wisely.</p>
+
+<p>If you do not have a domain name, or if you want to use the YunoHost&rsquo;s DynDNS service, choose a sub-domain of .nohost.me, .noho.st or .ynh.fr (e.g. homersimpson.nohost.me). Provided that it&rsquo;s not already taken, the domain will be configured automatically and you won&rsquo;t need any further configuration step.</p>
+
+<p>If you do know what DNS is, you probably want to configure your own domain name here. In this case, please refer to the DNS page page for more informations.</p>
+
+<p>If you don&rsquo;t own a domain name and don&rsquo;t want a .nohost.me, .noho.st or .ynh.fr, you can use a local domain. The idea is to configure your router to redirect a local domain name to your server. For example you could create the yunohost.local domain redirecting to your server in your router, and now every device on the network will be redirected to your server when accessing yunohost.local. More information on how to setup a local domain can be found here.</p>
+
+<p><strong>Administration password</strong></p>
+
+<p>This password will be used to access to your server&rsquo;s administration interface. You would also use it to connect via SSH or SFTP. In general terms, this is your system&rsquo;s key, <strong>choose it carefully.</strong></p>
+
+<ul>
+<li>If you&rsquo;re self-hosting at home and without a VPN, you need to make sure to correctly <a href="https://yunohost.org/#/isp_box_config">forward ports on your router/Internet</a> forward ports on your router/Internet box ;</li>
+<li>If you&rsquo;re using your own domain name (i.e. not a .nohost.me / .noho.st), you need to configure it according to the <a href="https://yunohost.org/#/dns_config">recommended DNS configuration</a> recommended DNS configuration ;</li>
+<li>If you cannot configure your domain name yet (because you didn&rsquo;t register it yet, or because this is a test domain), see last paragraph <a href="https://yunohost.org/#/dns_local_network">here</a> here for a workaround ;</li>
+<li>Don&rsquo;t be too afraid of the certificate warning, you&rsquo;ll probably be able to <a href="https://yunohost.org/#/certificate">install a Let&rsquo;s Encrypt certificate</a> install a Let&rsquo;s Encrypt certificate :).</li>
+<li>Have a look at the<a href="https://yunohost.org/#/apps"> available apps</a>  available apps !</li>
+</ul>
+
+
+        <div class="share-icons d-flex justify-content-center d-print-none">
+            <a href="https://twitter.com/intent/tweet?url=https%3a%2f%2fboneheadmedia.com%2fpost%2ftshv%2ftshvep2%2f&text=Yunohst%20Post%20Intall&tw_p=tweetbutton" class="p-2" title="Share on Twitter" target="_blank" rel="nofollow">
+    <div>
+        <span class="fa-stack">
+            <i class="fas fa-circle fa-stack-2x"></i>
+            <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+        </span>
+    </div>
+    <div class="fa-inverse text-center"><small>Tweet</small></div>
+</a>
+
+<a href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fboneheadmedia.com%2fpost%2ftshv%2ftshvep2%2f&t=Yunohst%20Post%20Intall" class="p-2" title="Share on Facebook" target="_blank" rel="nofollow">
+    <div>
+        <span class="fa-stack">
+            <i class="fas fa-circle fa-stack-2x"></i>
+            <i class="fab fa-facebook fa-stack-1x fa-inverse"></i>
+        </span>
+    </div>
+    <div class="fa-inverse text-center"><small>Share</small></div>
+</a>
+
+<a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3a%2f%2fboneheadmedia.com%2fpost%2ftshv%2ftshvep2%2f&title=Yunohst%20Post%20Intall&source=mattbutton.com" class="p-2" title="Share on LinkedIn" target="_blank" rel="nofollow">
+    <div>
+        <span class="fa-stack">
+            <i class="fas fa-circle fa-stack-2x"></i>
+            <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
+        </span>
+    </div>
+    <div class="fa-inverse text-center"><small>Share</small></div>
+</a>
+
+<a href="javascript:window.print()" title="Print this article" class="p-2" target="_blank" rel="nofollow">
+    <div>
+        <span class="fa-stack">
+            <i class="fas fa-circle fa-stack-2x"></i>
+            <i class="fa fa-print fa-stack-1x fa-inverse"></i>
+        </span>
+    </div>
+    <div class="fa-inverse text-center"><small>Print</small></div>
+</a>
+        </div>
+    </div>
+
+    
+</div>
+<div class="sidebar d-print-none d-none d-xl-block">
+    
+    <h2 class="mt-4">Recent Posts</h2>
+    <nav class="nav flex-column">
+        
+        <a href="https://boneheadmedia.com/post/tshp/2019-09-08-ep10-communitcation-on-yunohost/" class="nav-link">Ep10 Communication on Yunohost</a>
+        
+        <a href="https://boneheadmedia.com/post/tshp/2019-09-01-ep9-getting-help-with-yunohost/" class="nav-link">Ep9Getting Help with Your Yunohost</a>
+        
+        <a href="https://boneheadmedia.com/post/tshv/tshvep5/" class="nav-link">How I record my Podcasts</a>
+        
+        <a href="https://boneheadmedia.com/post/tshv/tshvep6/" class="nav-link">What I am currently using on my Yunohost</a>
+        
+        <a href="https://boneheadmedia.com/post/tshp/2019-08-25-ep8-commit2quit/" class="nav-link">Ep8 Commit2Quit</a>
+        
+        <a href="https://boneheadmedia.com/post/tshp/2019-08-18-ep7-security/" class="nav-link">Ep7 Securering Your Yunohost Server</a>
+        
+        <a href="https://boneheadmedia.com/post/tshv/tshvep4/" class="nav-link">How to remove Wordpress from Yunohost</a>
+        
+        <a href="https://boneheadmedia.com/post/tshp/2019-08-12-ep6-how/" class="nav-link">Ep6 How to Take Back Control</a>
+        
+    </nav>
+    
+    <h2 class="mt-4 text-capitalize">categories</h2>
+    <nav class="nav flex-column">
+        
+        <a href='https://boneheadmedia.comcategories/ntroradio/' class="nav-link">
+        ntroradio
+        <span class="badge badge-pill badge-secondary">16</span>
+        </a>
+        
+        <a href='https://boneheadmedia.comcategories/truckinnutz/' class="nav-link">
+        truckinnutz
+        <span class="badge badge-pill badge-secondary">15</span>
+        </a>
+        
+        <a href='https://boneheadmedia.comcategories/tshp/' class="nav-link">
+        tshp
+        <span class="badge badge-pill badge-secondary">11</span>
+        </a>
+        
+        <a href='https://boneheadmedia.comcategories/tshv/' class="nav-link">
+        tshv
+        <span class="badge badge-pill badge-secondary">6</span>
+        </a>
+        
+        <a href='https://boneheadmedia.comcategories/b19/' class="nav-link">
+        b19
+        <span class="badge badge-pill badge-secondary">2</span>
+        </a>
+        
+        <a href='https://boneheadmedia.comcategories/tuckinnutz/' class="nav-link">
+        tuckinnutz
+        <span class="badge badge-pill badge-secondary">1</span>
+        </a>
+        
+    </nav>
+    
+    <h2 class="mt-4 text-capitalize">tags</h2>
+    <nav class="nav flex-column">
+        
+        <a href='https://boneheadmedia.comtags/ntroradio/' class="nav-link">
+        ntroradio
+        <span class="badge badge-pill badge-secondary">16</span>
+        </a>
+        
+        <a href='https://boneheadmedia.comtags/self-hosting/' class="nav-link">
+        self-hosting
+        <span class="badge badge-pill badge-secondary">16</span>
+        </a>
+        
+        <a href='https://boneheadmedia.comtags/truckinnutz/' class="nav-link">
+        truckinnutz
+        <span class="badge badge-pill badge-secondary">13</span>
+        </a>
+        
+        <a href='https://boneheadmedia.comtags/tutorial/' class="nav-link">
+        tutorial
+        <span class="badge badge-pill badge-secondary">6</span>
+        </a>
+        
+        <a href='https://boneheadmedia.comtags/podcast/' class="nav-link">
+        podcast
+        <span class="badge badge-pill badge-secondary">2</span>
+        </a>
+        
+        <a href='https://boneheadmedia.comtags/break19/' class="nav-link">
+        break19
+        <span class="badge badge-pill badge-secondary">1</span>
+        </a>
+        
+        <a href='https://boneheadmedia.comtags/podcasting/' class="nav-link">
+        podcasting
+        <span class="badge badge-pill badge-secondary">1</span>
+        </a>
+        
+        <a href='https://boneheadmedia.comtags/trukinnutz/' class="nav-link">
+        trukinnutz
+        <span class="badge badge-pill badge-secondary">1</span>
+        </a>
+        
+        <a href='https://boneheadmedia.comtags/yunohost/' class="nav-link">
+        yunohost
+        <span class="badge badge-pill badge-secondary">1</span>
+        </a>
+        
+    </nav>
+    
+</div>
+
+        </div>
+
+        <footer class="mt-auto footer d-print-none">
+            <div class="container-fluid">
+                <div class="row justify-content-center">
+                    <div class="col-md-4 col-xl-3">
+                        <h5>Copyleft © 2019, All original content on this site is Creative Commons 4.0 Non Commercial-Share alike.</h5>
+I&#39;m happy for you to share content on this site, but please provide attribution.
+                    </div>
+                    <div class="col-md-4 col-xl-3">
+                        <h5>Disclaimer</h5>
+My opinions that I express here or on my podcasts are my own and may not reflect with any of my employers, friends or family.<br>I am not and expert in many things other than truck driving and you should take that into consideration<br>when inquiring for my advice on anything.
+                    </div>
+                    <div class="col-md-4 col-xl-3">
+                        <h5>About This Site</h5>
+This blog was created using the <a href="https://gohugo.io/">Hugo</a> static site generator, using
+<a href="https://getbootstrap.com/">Bootstrap</a>, using the Silhouette Hugo theme, created by
+<a href='https://www.mattbutton.com'>Matt Button</a>
+                    </div>
+                </div>
+
+                <hr />
+
+                <div class="d-flex justify-content-center icons">
+                    <a class="py-2 px-2" href="https://instagram.com/@unklebonehead"><i class="fab fa-instagram"></i></a>
+<a class="py-2 px-2" href='https://boneheadmedia.com/index.xml'><i class="fas fa-rss"></i></a>
+
+                </div>
+            </div>
+        </footer>
+
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+
+        
+    </body>
+</html>

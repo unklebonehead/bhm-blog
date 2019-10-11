@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorial on Bonehead Media</title>
+    <link>https://boneheadmedia.com/tags/tutorial/</link>
+    <description>Recent content in Tutorial on Bonehead Media</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyleft © 2019, All original content on this site is Creative Commons 4.0 Non Commercial-Share alike.</copyright>
+    <lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://boneheadmedia.com/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How I record my Podcasts</title>
+      <link>https://boneheadmedia.com/post/tshv/tshvep5/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshv/tshvep5/</guid>
+      <description>To be honest, this should be a &amp;ldquo;Dont drink and vidcast&amp;rdquo; video. I may or may not have had a couple of beers before recording this. This how I record all of my podcasts, whether I&amp;rsquo;m at home in the studio or on the road in the truck. The process and apps are all the same.</description>
+    </item>
+    
+    <item>
+      <title>What I am currently using on my Yunohost</title>
+      <link>https://boneheadmedia.com/post/tshv/tshvep6/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshv/tshvep6/</guid>
+      <description>Just me showing you what I am currently using on my own home server. Airsonic Grav Flat File CMS Searx Roundcube Nextcloud PeerTube TTRss</description>
+    </item>
+    
+    <item>
+      <title>How to remove Wordpress from Yunohost</title>
+      <link>https://boneheadmedia.com/post/tshv/tshvep4/</link>
+      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshv/tshvep4/</guid>
+      <description>This is how you uninstall Wordpress and install a static html site to Yunohost. Get Yunohost - https://yunohost.org</description>
+    </item>
+    
+    <item>
+      <title>Install Wordpress on Yunohst</title>
+      <link>https://boneheadmedia.com/post/tshv/tshvep3/</link>
+      <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshv/tshvep3/</guid>
+      <description>Look how easy it is to install Wordpress on Yunohost! It only actually took minutes and minimal attention from me. But because I cant never shut up it made a 30 minute video.</description>
+    </item>
+    
+    <item>
+      <title>Yunohst Post Intall</title>
+      <link>https://boneheadmedia.com/post/tshv/tshvep2/</link>
+      <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshv/tshvep2/</guid>
+      <description>The step called &amp;ldquo;post-installation&amp;rdquo; is actually the initial configuration of YunoHost. It has to be done just after the installation of the system itself. You can do it from through ssh, directly on the server or through a web browser. The browser is what I did because it is the easiest for people like me. Who dont know what they are doing.
+Post-Installation The step called &amp;ldquo;post-installation&amp;rdquo; is actually the initial configuration of YunoHost.</description>
+    </item>
+    
+    <item>
+      <title>Installing Yunohost</title>
+      <link>https://boneheadmedia.com/post/tshv/tshvep1/</link>
+      <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshv/tshvep1/</guid>
+      <description>Talking about and installing Yunohost. I used virtualbox instead of an actual machine but the process is the same. Step1 - Make coffee Step2 - Download the correct iso for your machine Step3 - Install</description>
+    </item>
+    
+  </channel>
+</rss>

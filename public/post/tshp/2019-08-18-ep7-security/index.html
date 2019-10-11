@@ -1,0 +1,415 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+        <meta property="og:title" content="Ep7 Securering Your Yunohost Server" />
+<meta property="og:description" content="Ep7 Security  Download Mp3
+Housekeeping I just recorded episode 4 of The Self Hosted Vidcast. I uninstalled Wordpress and showed how to install a static html site on Yunohost. Bonehead Media is back to being a simple static html site. It&rsquo;s only got 2 pages that I built in Bootstrap Studio. I&rsquo;ll flesh it out more in the future. I would like to turn it into a theme for Pelican or Hugo and post the shownotes to the front page." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://boneheadmedia.com/post/tshp/2019-08-18-ep7-security/" />
+<meta property="article:published_time" content="2019-08-18T00:00:00+00:00" />
+<meta property="article:modified_time" content="2019-08-18T00:00:00+00:00" />
+
+        <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Ep7 Securering Your Yunohost Server"/>
+<meta name="twitter:description" content="Ep7 Security  Download Mp3
+Housekeeping I just recorded episode 4 of The Self Hosted Vidcast. I uninstalled Wordpress and showed how to install a static html site on Yunohost. Bonehead Media is back to being a simple static html site. It&rsquo;s only got 2 pages that I built in Bootstrap Studio. I&rsquo;ll flesh it out more in the future. I would like to turn it into a theme for Pelican or Hugo and post the shownotes to the front page."/>
+
+        
+        <title>
+  Ep7 Securering Your Yunohost Server | Bonehead Media
+</title>
+
+        <link rel="icon" type="image/png" href='https://boneheadmedia.com/images/favicon-16x16.png' sizes="16x16">
+        <link rel="icon" type="image/png" href='https://boneheadmedia.com/images/favicon-32x32.png' sizes="32x32">  
+
+        <link href="https://fonts.googleapis.com/css?family=Oswald:400" rel="stylesheet">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">      
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+        
+        
+        
+        
+
+        <link rel="stylesheet" href="https://boneheadmedia.com/css/bundle.min.7ca6cd3bb53a831d18b6183000ae658b8d6f672f7acab1b00f788e5fe8b5d844.css" integrity="sha256-fKbNO7U6gx0YthgwAK5li41vZy96yrGwD3iOX&#43;i12EQ="  />
+
+        
+    <link rel="icon" type="image/png" href="https://boneheadmedia.com/images/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="https://boneheadmedia.com/images/favicon-32x32.png" sizes="32x32">
+
+<link rel="alternate" type="application/rss+xml" href='https://boneheadmedia.com/index.xml' />
+
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name="author" content="" />
+<meta name="copyright" content="Copyleft © 2019, All original content on this site is Creative Commons 4.0 Non Commercial-Share alike." />
+
+
+<meta name="description" content="Ep7 Security  Download Mp3
+Housekeeping I just recorded episode 4 of The Self Hosted Vidcast. I uninstalled Wordpress and showed how to install a static html site on Yunohost. Bonehead Media is back to being a simple static html site. It&amp;rsquo;s only got 2 pages that I built in Bootstrap Studio. I&amp;rsquo;ll flesh it out more in the future. I would like to turn it into a theme for Pelican or Hugo and post the shownotes to the front page.">
+
+
+    
+        
+    </head>
+    <body>
+        <nav class="navbar fixed-top navbar-expand-md navbar-dark bg-dark py-1 top-nav">
+            <div class="container">
+                    <a class="navbar-brand pr-2" href="https://boneheadmedia.com">BONEHEAD MEDIA</a>
+                <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                    <i class="fas fa-bars"></i>
+                </button>
+                <div class="navbar-collapse collapse" id="navbarCollapse">
+                    <ul class="navbar-nav mr-auto">
+                        <li class="nav-item">
+    <a class="nav-link active" href="https://boneheadmedia.com/categories/tshp/">TSHP</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link active" href="https://boneheadmedia.com/categories/tshv/">TSHV</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link active" href="https://boneheadmedia.com/categories/truckinnutz/">TruckinNutz</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link active" href="https://boneheadmedia.com/categories/b19/">Break19 Podcast</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link active" href="https://boneheadmedia.com/categories/ntroradio/">NTROradio Podcast</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link active" href="https://boneheadmedia.com/about/">About</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link active" href="https://boneheadmedia.com/contact/">Contact</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link active" href="https://boneheadmedia.com/support/">Support Me</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link active" href="https://boneheadmedia.com/links/">Important Links</a>
+</li>
+                    </ul>
+                    <div class="social-icons d-none d-lg-block">
+                        <a class="py-2 px-2" href="https://instagram.com/@unklebonehead"><i class="fab fa-instagram"></i></a>
+<a class="py-2 px-2" href='https://boneheadmedia.com/index.xml'><i class="fas fa-rss"></i></a>
+
+                    </div>
+                </div>
+            </div>
+        </nav>
+
+        
+<header class="feature-image d-print-none">
+</header>
+
+        
+        <div class="main">
+            
+<div class="container mt-4 post">
+    <h1>Ep7 Securering Your Yunohost Server</h1>
+    <div class="mb-3">
+    <small>
+        <strong>By Unkle Bonehead</strong>
+        | <i class="far fa-calendar-alt"></i>&nbsp;Aug 18, 2019&nbsp;
+        | <i class="fa fa-tags" title="Tags" aria-hidden="true"></i> <a href='https://boneheadmedia.com/tags/self-hosting/'>self-hosting</a>
+    </small>
+</div>
+
+    <div class="share-icons d-flex justify-content-center d-print-none">
+        <a href="https://twitter.com/intent/tweet?url=https%3a%2f%2fboneheadmedia.com%2fpost%2ftshp%2f2019-08-18-ep7-security%2f&text=Ep7%20Securering%20Your%20Yunohost%20Server&tw_p=tweetbutton" class="p-2" title="Share on Twitter" target="_blank" rel="nofollow">
+    <div>
+        <span class="fa-stack">
+            <i class="fas fa-circle fa-stack-2x"></i>
+            <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+        </span>
+    </div>
+    <div class="fa-inverse text-center"><small>Tweet</small></div>
+</a>
+
+<a href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fboneheadmedia.com%2fpost%2ftshp%2f2019-08-18-ep7-security%2f&t=Ep7%20Securering%20Your%20Yunohost%20Server" class="p-2" title="Share on Facebook" target="_blank" rel="nofollow">
+    <div>
+        <span class="fa-stack">
+            <i class="fas fa-circle fa-stack-2x"></i>
+            <i class="fab fa-facebook fa-stack-1x fa-inverse"></i>
+        </span>
+    </div>
+    <div class="fa-inverse text-center"><small>Share</small></div>
+</a>
+
+<a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3a%2f%2fboneheadmedia.com%2fpost%2ftshp%2f2019-08-18-ep7-security%2f&title=Ep7%20Securering%20Your%20Yunohost%20Server&source=mattbutton.com" class="p-2" title="Share on LinkedIn" target="_blank" rel="nofollow">
+    <div>
+        <span class="fa-stack">
+            <i class="fas fa-circle fa-stack-2x"></i>
+            <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
+        </span>
+    </div>
+    <div class="fa-inverse text-center"><small>Share</small></div>
+</a>
+
+<a href="javascript:window.print()" title="Print this article" class="p-2" target="_blank" rel="nofollow">
+    <div>
+        <span class="fa-stack">
+            <i class="fas fa-circle fa-stack-2x"></i>
+            <i class="fa fa-print fa-stack-1x fa-inverse"></i>
+        </span>
+    </div>
+    <div class="fa-inverse text-center"><small>Print</small></div>
+</a>
+    </div>
+
+    <div class="mt-4 mb-4 main-content">
+        
+
+<h3 id="ep7-security">Ep7 Security</h3>
+
+<p><audio controls>
+    <source src="https://reel2bits.boneheadmedia.com/uploads/sounds/unklebonehead/359ce58edc1412ef361403ea03b7456620c1e2524dd9e8f7cf1b8ce727f22585.mp3">
+    </audio>
+<a href="https://reel2bits.boneheadmedia.com/uploads/sounds/unklebonehead/359ce58edc1412ef361403ea03b7456620c1e2524dd9e8f7cf1b8ce727f22585.mp3">Download Mp3</a></p>
+
+<h3 id="housekeeping">Housekeeping</h3>
+
+<p>I just recorded episode 4 of The Self Hosted Vidcast. I uninstalled Wordpress and showed how to install a static html site on Yunohost.
+Bonehead Media is back to being a simple static html site. It&rsquo;s only got 2 pages that I built in Bootstrap Studio. I&rsquo;ll flesh it out more in the future.
+I would like to turn it into a theme for Pelican or Hugo and post the shownotes to the front page. But that will require more effort on an ongoing basis for me. Plus I already have my stuff posted to the <a href="https://fediverse.blog/@/UnkleBonehead">Fediverse</a>. The reason behind that is three fold.
+1. It has the coolness factor that you can subscribe through Mastodon (and the rest of the Fediverse) or the RSS feed.
+2. Just in case something catestrophic happens to my home server you will still be able to get updates.
+3. It will drasticaly reduce the traffic to my home server.</p>
+
+<p>I&rsquo;m looking for a better Markdown editor for Ubuntu. I&rsquo;m currently using Remarkable and it works good but I would like to try something new.
+Does anybody have any suggestions? I definatly need something with a preview since I am using it write shownotes.
+I&rsquo;m testing out recording a bit differetn today.
+I&rsquo;m using <a href="https://www.zrythm.org/en/">Zrythm</a> to record todays episode. It&rsquo;s written by a small dude I&rsquo;m following on Mastodon named <a href="https://www.alextee.org/">AlexTee</a></p>
+
+<h3 id="security">Security</h3>
+
+<p>YunoHost has been developed to provide the best security without too much complication. Every protocol used in YunoHost are encrypted, only password&rsquo;s hashs are stored and by default each user is able to access to his personal directory only.
+If you need advice, do not hesitate to <a href="https://yunohost.org/#/help">ask for help!</a></p>
+
+<h4 id="2-things-are-very-important-to-remember">2 things are very important to remember.</h4>
+
+<ol>
+<li>Installing additional apps can significantly increase the number of potential security flaws. Do not hesitate to get information about security flaws before installing an app, and try to install only apps which will suit your needs.</li>
+<li>The fact that YunoHost is a well-spread software increases the chances of an attack. If a flaw is discovered, it could potentially affect all the YunoHost instances at once. Keep your system up-to-date to remain safe.</li>
+</ol>
+
+<h4 id="there-are-5-various-way-to-harden-your-yunohost">There are 5 various way to harden your Yunohost.</h4>
+
+<ol>
+<li>Change SSH authentication to use a key instead of a password
+By default, the SSH authentication uses the administration password. Deactivating this kind of authentication and replacing it by a key mechanism is advised.</li>
+<li>Modify SSH port number
+To prevent SSH connection attempts by robots that scan the Internet for any servers with SSH accessible, you can change the SSH port.</li>
+<li>Change the user that is authorized to use SSH
+To avoid multiple forced login attempts to admin by robots, change the authorized user who can connect.
+(In the case of a key authentication, a brute force attack has no chance of succeeding. This step is not really useful in this case. )</li>
+<li>Change the cipher compatatibility configuration.
+I have not done this because I want anybody to be able to see the site.
+The default TLS configuration for services tend to offer a good compatibility to support old devices. You can tune this policy for specific services like SSH and NGINX. By default, the NGINX configuration follows the intermediate compatibility recommendation from Mozilla. You can choose to switch to the &lsquo;modern&rsquo; configuration which uses more recent security recommendations, but decreases the compatibility, which may be an issue for your users and visitors using older devices. More details about the compatibility can be found on this page.</li>
+</ol>
+
+<p>Changing the compatibility level is not definitive and can be reverted if it doesn&rsquo;t feet your environment.
+5. Disable the Yunohost API
+This is your admin panel.
+YunoHost administration is accessible through an HTTP API, served on the 6787 port by default (only on localhost). It can be used to administrate a lot of things on your server, so malicious actors can also use it to damage your server. The best thing to do, if you know how to use the command-line interface, is to deactivate the yunohost-api service.
+<a href="https://yunohost.org/#/security">Yunohost Security</a></p>
+
+<p>I suggest that you take the time and do some addiional reading
+of <a href="https://joshrollinswrites.com/help-desk-head-desk/basic-ssh-security/">Josh Rollins Basic SSH Security</a> post. I literally read it 3 times and each time I read it something else clicked in my brain that I hadnt noticed the previous time. For instance, I didnt know that you could change the login grace time or that you should start around port 8000 if you change the port number.
+While your there you should check out the rest of his blog as well.</p>
+
+
+        <div class="share-icons d-flex justify-content-center d-print-none">
+            <a href="https://twitter.com/intent/tweet?url=https%3a%2f%2fboneheadmedia.com%2fpost%2ftshp%2f2019-08-18-ep7-security%2f&text=Ep7%20Securering%20Your%20Yunohost%20Server&tw_p=tweetbutton" class="p-2" title="Share on Twitter" target="_blank" rel="nofollow">
+    <div>
+        <span class="fa-stack">
+            <i class="fas fa-circle fa-stack-2x"></i>
+            <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+        </span>
+    </div>
+    <div class="fa-inverse text-center"><small>Tweet</small></div>
+</a>
+
+<a href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fboneheadmedia.com%2fpost%2ftshp%2f2019-08-18-ep7-security%2f&t=Ep7%20Securering%20Your%20Yunohost%20Server" class="p-2" title="Share on Facebook" target="_blank" rel="nofollow">
+    <div>
+        <span class="fa-stack">
+            <i class="fas fa-circle fa-stack-2x"></i>
+            <i class="fab fa-facebook fa-stack-1x fa-inverse"></i>
+        </span>
+    </div>
+    <div class="fa-inverse text-center"><small>Share</small></div>
+</a>
+
+<a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3a%2f%2fboneheadmedia.com%2fpost%2ftshp%2f2019-08-18-ep7-security%2f&title=Ep7%20Securering%20Your%20Yunohost%20Server&source=mattbutton.com" class="p-2" title="Share on LinkedIn" target="_blank" rel="nofollow">
+    <div>
+        <span class="fa-stack">
+            <i class="fas fa-circle fa-stack-2x"></i>
+            <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
+        </span>
+    </div>
+    <div class="fa-inverse text-center"><small>Share</small></div>
+</a>
+
+<a href="javascript:window.print()" title="Print this article" class="p-2" target="_blank" rel="nofollow">
+    <div>
+        <span class="fa-stack">
+            <i class="fas fa-circle fa-stack-2x"></i>
+            <i class="fa fa-print fa-stack-1x fa-inverse"></i>
+        </span>
+    </div>
+    <div class="fa-inverse text-center"><small>Print</small></div>
+</a>
+        </div>
+    </div>
+
+    
+</div>
+<div class="sidebar d-print-none d-none d-xl-block">
+    
+    <h2 class="mt-4">Recent Posts</h2>
+    <nav class="nav flex-column">
+        
+        <a href="https://boneheadmedia.com/post/tshp/2019-09-08-ep10-communitcation-on-yunohost/" class="nav-link">Ep10 Communication on Yunohost</a>
+        
+        <a href="https://boneheadmedia.com/post/tshp/2019-09-01-ep9-getting-help-with-yunohost/" class="nav-link">Ep9Getting Help with Your Yunohost</a>
+        
+        <a href="https://boneheadmedia.com/post/tshv/tshvep5/" class="nav-link">How I record my Podcasts</a>
+        
+        <a href="https://boneheadmedia.com/post/tshv/tshvep6/" class="nav-link">What I am currently using on my Yunohost</a>
+        
+        <a href="https://boneheadmedia.com/post/tshp/2019-08-25-ep8-commit2quit/" class="nav-link">Ep8 Commit2Quit</a>
+        
+        <a href="https://boneheadmedia.com/post/tshp/2019-08-18-ep7-security/" class="nav-link">Ep7 Securering Your Yunohost Server</a>
+        
+        <a href="https://boneheadmedia.com/post/tshv/tshvep4/" class="nav-link">How to remove Wordpress from Yunohost</a>
+        
+        <a href="https://boneheadmedia.com/post/tshp/2019-08-12-ep6-how/" class="nav-link">Ep6 How to Take Back Control</a>
+        
+    </nav>
+    
+    <h2 class="mt-4 text-capitalize">categories</h2>
+    <nav class="nav flex-column">
+        
+        <a href='https://boneheadmedia.comcategories/ntroradio/' class="nav-link">
+        ntroradio
+        <span class="badge badge-pill badge-secondary">16</span>
+        </a>
+        
+        <a href='https://boneheadmedia.comcategories/truckinnutz/' class="nav-link">
+        truckinnutz
+        <span class="badge badge-pill badge-secondary">15</span>
+        </a>
+        
+        <a href='https://boneheadmedia.comcategories/tshp/' class="nav-link">
+        tshp
+        <span class="badge badge-pill badge-secondary">11</span>
+        </a>
+        
+        <a href='https://boneheadmedia.comcategories/tshv/' class="nav-link">
+        tshv
+        <span class="badge badge-pill badge-secondary">6</span>
+        </a>
+        
+        <a href='https://boneheadmedia.comcategories/b19/' class="nav-link">
+        b19
+        <span class="badge badge-pill badge-secondary">2</span>
+        </a>
+        
+        <a href='https://boneheadmedia.comcategories/tuckinnutz/' class="nav-link">
+        tuckinnutz
+        <span class="badge badge-pill badge-secondary">1</span>
+        </a>
+        
+    </nav>
+    
+    <h2 class="mt-4 text-capitalize">tags</h2>
+    <nav class="nav flex-column">
+        
+        <a href='https://boneheadmedia.comtags/ntroradio/' class="nav-link">
+        ntroradio
+        <span class="badge badge-pill badge-secondary">16</span>
+        </a>
+        
+        <a href='https://boneheadmedia.comtags/self-hosting/' class="nav-link">
+        self-hosting
+        <span class="badge badge-pill badge-secondary">16</span>
+        </a>
+        
+        <a href='https://boneheadmedia.comtags/truckinnutz/' class="nav-link">
+        truckinnutz
+        <span class="badge badge-pill badge-secondary">13</span>
+        </a>
+        
+        <a href='https://boneheadmedia.comtags/tutorial/' class="nav-link">
+        tutorial
+        <span class="badge badge-pill badge-secondary">6</span>
+        </a>
+        
+        <a href='https://boneheadmedia.comtags/podcast/' class="nav-link">
+        podcast
+        <span class="badge badge-pill badge-secondary">2</span>
+        </a>
+        
+        <a href='https://boneheadmedia.comtags/break19/' class="nav-link">
+        break19
+        <span class="badge badge-pill badge-secondary">1</span>
+        </a>
+        
+        <a href='https://boneheadmedia.comtags/podcasting/' class="nav-link">
+        podcasting
+        <span class="badge badge-pill badge-secondary">1</span>
+        </a>
+        
+        <a href='https://boneheadmedia.comtags/trukinnutz/' class="nav-link">
+        trukinnutz
+        <span class="badge badge-pill badge-secondary">1</span>
+        </a>
+        
+        <a href='https://boneheadmedia.comtags/yunohost/' class="nav-link">
+        yunohost
+        <span class="badge badge-pill badge-secondary">1</span>
+        </a>
+        
+    </nav>
+    
+</div>
+
+        </div>
+
+        <footer class="mt-auto footer d-print-none">
+            <div class="container-fluid">
+                <div class="row justify-content-center">
+                    <div class="col-md-4 col-xl-3">
+                        <h5>Copyleft © 2019, All original content on this site is Creative Commons 4.0 Non Commercial-Share alike.</h5>
+I&#39;m happy for you to share content on this site, but please provide attribution.
+                    </div>
+                    <div class="col-md-4 col-xl-3">
+                        <h5>Disclaimer</h5>
+My opinions that I express here or on my podcasts are my own and may not reflect with any of my employers, friends or family.<br>I am not and expert in many things other than truck driving and you should take that into consideration<br>when inquiring for my advice on anything.
+                    </div>
+                    <div class="col-md-4 col-xl-3">
+                        <h5>About This Site</h5>
+This blog was created using the <a href="https://gohugo.io/">Hugo</a> static site generator, using
+<a href="https://getbootstrap.com/">Bootstrap</a>, using the Silhouette Hugo theme, created by
+<a href='https://www.mattbutton.com'>Matt Button</a>
+                    </div>
+                </div>
+
+                <hr />
+
+                <div class="d-flex justify-content-center icons">
+                    <a class="py-2 px-2" href="https://instagram.com/@unklebonehead"><i class="fab fa-instagram"></i></a>
+<a class="py-2 px-2" href='https://boneheadmedia.com/index.xml'><i class="fas fa-rss"></i></a>
+
+                </div>
+            </div>
+        </footer>
+
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+
+        
+    </body>
+</html>

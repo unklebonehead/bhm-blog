@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Podcasting on Bonehead Media</title>
+    <link>https://boneheadmedia.com/tags/podcasting/</link>
+    <description>Recent content in Podcasting on Bonehead Media</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyleft © 2019, All original content on this site is Creative Commons 4.0 Non Commercial-Share alike.</copyright>
+    <lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://boneheadmedia.com/tags/podcasting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How I record my Podcasts</title>
+      <link>https://boneheadmedia.com/post/tshv/tshvep5/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshv/tshvep5/</guid>
+      <description>To be honest, this should be a &amp;ldquo;Dont drink and vidcast&amp;rdquo; video. I may or may not have had a couple of beers before recording this. This how I record all of my podcasts, whether I&amp;rsquo;m at home in the studio or on the road in the truck. The process and apps are all the same.</description>
+    </item>
+    
+  </channel>
+</rss>

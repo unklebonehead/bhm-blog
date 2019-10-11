@@ -1,0 +1,23 @@
+baseurl = "https://boneheadmedia.com"
+title = "Bonehead Media"
+author = "Unkle Bonehead"
+copyright = "Copyleft © 2019, All original content on this site is Creative Commons 4.0 Non Commercial-Share alike."
+canonifyurls = true
+paginate = 3
+theme = "silhouette-hugo"
+
+pygmentsUseClasses=true
+
+#disqusShortname = ""
+#googleAnalytics = ""
+
+[params]
+author = ""
+introDescription = ""
+contentSharing = "I'm happy for you to share content on this site, but please provide attribution."
+
+[social]
+instagram = ""
+linkedin = ""
+mastodon = "@unklebonehead"
+

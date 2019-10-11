@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Bonehead Media</title>
+    <link>https://boneheadmedia.com/tags/</link>
+    <description>Recent content in Tags on Bonehead Media</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyleft © 2019, All original content on this site is Creative Commons 4.0 Non Commercial-Share alike.</copyright>
+    <lastBuildDate>Sun, 08 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://boneheadmedia.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Self Hosting</title>
+      <link>https://boneheadmedia.com/tags/self-hosting/</link>
+      <pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://boneheadmedia.com/tags/self-hosting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Podcasting</title>
+      <link>https://boneheadmedia.com/tags/podcasting/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://boneheadmedia.com/tags/podcasting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorial</title>
+      <link>https://boneheadmedia.com/tags/tutorial/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://boneheadmedia.com/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>yunohost</title>
+      <link>https://boneheadmedia.com/tags/yunohost/</link>
+      <pubDate>Mon, 01 Jul 2019 07:45:31 -0400</pubDate>
+      
+      <guid>https://boneheadmedia.com/tags/yunohost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>podcast</title>
+      <link>https://boneheadmedia.com/tags/podcast/</link>
+      <pubDate>Sun, 30 Jun 2019 17:29:28 -0400</pubDate>
+      
+      <guid>https://boneheadmedia.com/tags/podcast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Break19</title>
+      <link>https://boneheadmedia.com/tags/break19/</link>
+      <pubDate>Sun, 16 Jun 2019 16:29:52 -0400</pubDate>
+      
+      <guid>https://boneheadmedia.com/tags/break19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TruckinNutz</title>
+      <link>https://boneheadmedia.com/tags/truckinnutz/</link>
+      <pubDate>Sun, 16 Jun 2019 16:13:10 -0400</pubDate>
+      
+      <guid>https://boneheadmedia.com/tags/truckinnutz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NTROradio</title>
+      <link>https://boneheadmedia.com/tags/ntroradio/</link>
+      <pubDate>Sun, 16 Jun 2019 16:06:55 -0400</pubDate>
+      
+      <guid>https://boneheadmedia.com/tags/ntroradio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TrukinNutz</title>
+      <link>https://boneheadmedia.com/tags/trukinnutz/</link>
+      <pubDate>Sun, 27 Jan 2019 10:30:06 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/tags/trukinnutz/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
