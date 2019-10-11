@@ -10,9 +10,9 @@ tags:
 ### Ep7 Security
 
 <audio controls>
-    <source src="https://reel2bits.boneheadmedia.com/uploads/sounds/unklebonehead/359ce58edc1412ef361403ea03b7456620c1e2524dd9e8f7cf1b8ce727f22585.mp3">
+    <source src="https://archive.org/download/tshpep7security/TSHP-Ep-7-Security.mp3">
     </audio>
-[Download Mp3](https://reel2bits.boneheadmedia.com/uploads/sounds/unklebonehead/359ce58edc1412ef361403ea03b7456620c1e2524dd9e8f7cf1b8ce727f22585.mp3) 
+[Download Mp3](https://archive.org/download/tshpep7security/TSHP-Ep-7-Security.mp3) 
 
 ### Housekeeping
 I just recorded episode 4 of The Self Hosted Vidcast. I uninstalled Wordpress and showed how to install a static html site on Yunohost.

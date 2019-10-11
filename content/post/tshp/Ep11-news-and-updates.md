@@ -2,7 +2,7 @@
 title: Ep11 News and Updates
 author: Unkle Bonehead
 date: 2019-10-09
-published: false
+published: true
 categories:
   - TSHP
 tags: 
@@ -10,9 +10,9 @@ tags:
 featureImage: "img/bhm2.png"
 ---
 <audio controls?>
-	<source src="https://.mp3">
+	<source src="https://archive.org/download/tshp-ep11/tshp-ep11.mp3">
     </audio>
-[Download untracked Mp3 here]()
+[Download untracked Mp3 here](https://archive.org/download/tshp-ep11/tshp-ep11.mp3)
 
 I'm back! Now with a redneck, tricked out Frankenputer latop. But its powered by KDENeon and backedup by Yunohost. It's episode 11 and I got some news, opinions and updates for you right here, right now on The Self Hosted Podcast.
 ### Housekeeping

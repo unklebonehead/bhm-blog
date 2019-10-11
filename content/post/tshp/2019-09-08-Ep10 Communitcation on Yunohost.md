@@ -9,10 +9,10 @@ tags:
 featureImage: "img/bhm2.png"
 ---
 <audio controls>
-    <source src="https://reel2bits.boneheadmedia.com/uploads/sounds/unklebonehead/f1ad99f9bdcd8088346cfeb6f3645a05730ab90a2338c7d3c563a46e583496d9.mp3">
+    <source src="https://archive.org/download/tshp10communicationonyunohost/TSHP-10-Communication-on-yunohost.mp33">
     </audio>
     
-[Download Mp3](https://reel2bits.boneheadmedia.com/uploads/sounds/unklebonehead/f1ad99f9bdcd8088346cfeb6f3645a05730ab90a2338c7d3c563a46e583496d9.mp3)    
+[Download Mp3](https://archive.org/download/tshp10communicationonyunohost/TSHP-10-Communication-on-yunohost.mp3)    
 
 
 #### Pre-roll

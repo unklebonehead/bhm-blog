@@ -14,10 +14,10 @@ image: "tshp-300.jpg"
 ### Ep2 Choosing Yunohost and The Fediverse
 
 <audio controls>
-    <source src="https://reel2bits.boneheadmedia.com/uploads/sounds/unklebonehead/01df3fc7bd8dc55d19b650cda09cfaa0cf58265ded1f8c3a528490382d43e94b.mp3">
+    <source src="https://archive.org/download/tshpep2/TSHP-Ep2.mp3">
             </audio>
     
-[Download Episode](https://reel2bits.boneheadmedia.com/uploads/sounds/unklebonehead/01df3fc7bd8dc55d19b650cda09cfaa0cf58265ded1f8c3a528490382d43e94b.mp3) 
+[Download Episode](https://archive.org/download/tshpep2/TSHP-Ep2.mp3) 
  #### What it is
 If you've ever messed with Linux you have undoubtedly experienced the dreaded (but fun) thing called "distro hopping". Where you constantly download and install tons of different distros and use them to see what they are like and how well they run. Hell you may be running 3-4 of them on a pc at any given time. Wait, what? You dont know what a distro is? Well then... 
 **Distro aka Distribution** - An operating system that is comprised of a collection of software packaged around the Linux kernel. There are many. Quite possibly thousands of distros out there. But there are some big ones that have been around for a long time that you may have heard of. Debian, Slack, Red Hat, Arch, Gentoo, etc. There are even some you may even be using currently and you dont even know it. Android is essentially a distro. The widely popluar Chromebooks and Chromeboxes run on ChromeOS which is derived from Gentoo. So now that you know what a distro is lets continue. 

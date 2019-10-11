@@ -10,9 +10,9 @@ tags:
 #### Ep 9
 
 <audio controls>
-    <source src="https://reel2bits.boneheadmedia.com/uploads/sounds/unklebonehead/9b13a8ea53e7adc0f1edea7552785ae067c4ced19d7e3129b45849404d162cfd.mp3">
+    <source src="https://archive.org/download/tshpep9/TSHP-Ep9.mp3">
     </audio>
-[Download Mp3](https://reel2bits.boneheadmedia.com/uploads/sounds/unklebonehead/9b13a8ea53e7adc0f1edea7552785ae067c4ced19d7e3129b45849404d162cfd.mp3)
+[Download Mp3](https://archive.org/download/tshpep9/TSHP-Ep9.mp3)
 Download two songs from me for free! CC4.0! Play them in your podcast if you have one!
 [Hammer On Down](https://reel2bits.boneheadmedia.com/uploads/sounds/unklebonehead/1bfbbd52f4f86841bed4cb4468cf55b8ecb5886994a3ea37b4b7fdc62e4f83ea.mp3) 
 [Work It Out](https://reel2bits.boneheadmedia.com/uploads/sounds/unklebonehead/bb2e6bf60203cffae072a4b05d21be1b38562db77872d8dff822bf08e573a166.mp3) 

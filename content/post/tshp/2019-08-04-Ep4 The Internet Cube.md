@@ -11,9 +11,9 @@ tags:
 ### Ep4 The Internet Cube
 
 <audio controls>
-    <source src="https://reel2bits.boneheadmedia.com/uploads/sounds/unklebonehead/3bd3f989cc9fc3643c7e5041e01e83a47b2051efabd55eb4226448268934b6b3.mp3">
+    <source src="https://archive.org/download/tshpep4/TSHP-Ep4.mp3">
     </audio>
- [Download Mp3](https://reel2bits.boneheadmedia.com/uploads/sounds/unklebonehead/3bd3f989cc9fc3643c7e5041e01e83a47b2051efabd55eb4226448268934b6b3.mp3) 
+ [Download Mp3](https://archive.org/download/tshpep4/TSHP-Ep4.mp3) 
  #### Rethinking the direction of the podcast 
  I've been doing some major thinking about the direction of where I want to take this podcast. I was listening to one of the episodes as I usually do. Us podcasters do that alot. Listen to ourselves in order to critique our abililites. We're not really that self important, we are are our worst and toughest critics. 
 But I noticed that I had said that "Iam doing this podcast as a I take the journey into self hosting and the fediverse to show how easy it is". I want this podcast to be fully self hosted and wont be on anything like Apple Podcasts. 

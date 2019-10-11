@@ -10,9 +10,9 @@ tags:
 ### Ep8 Commit2Quit
 
 <audio controls>
-    <source src="https://reel2bits.boneheadmedia.com/uploads/sounds/unklebonehead/b1a0e4567d53ce8dc7a86283da3e7cd2eed5016b3ec43863b7835e4204c4c8db.mp3">
+    <source src="https://archive.org/download/tshp-ep8-commit2quit/tshp-ep8-commit2quit.mp3">
     </audio>
-[Download Here](https://reel2bits.boneheadmedia.com/uploads/sounds/unklebonehead/b1a0e4567d53ce8dc7a86283da3e7cd2eed5016b3ec43863b7835e4204c4c8db.mp3)
+[Download Here](https://archive.org/download/tshp-ep8-commit2quit/tshp-ep8-commit2quit.mp3)
 
 ## Housekeeping
 It seems that this podcasts goal has already been achieved. It has inspired 2 people to start self hosting. I got a couple of notifications on Mastodon that one is researching on how to self host on bsd and the other actually installed Yunohost! Thats frickin AWESOME! 
