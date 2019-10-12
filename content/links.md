@@ -39,4 +39,5 @@ The site that was instrumental in getting me started with self hosting and takin
 
 
 #### Interesting reading
-[The art of not asking why](https://joshrollinswrites.com/)
+[The art of not asking why](https://joshrollinswrites.com/) | 
+[Kev Quirk](https://kevq.uk/) | 

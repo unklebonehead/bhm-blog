@@ -2,7 +2,7 @@
 title: "Ep12 Hubzilla and More News"
 author: Unkle Bonehead
 date: 2019-10-11T04:44:13-04:00
-draft: true
+draft: false
 categories:
   - TSHP
 tags:
@@ -10,10 +10,13 @@ tags:
   - yunohost
 featureImage: "img/bhm2.png"
 ---
-<audio controls?>
-	<source src="https://.mp3">
+<audio controls>
+	<source src="https://archive.org/download/tshp-ep12/tshp-ep12.mp3">
     </audio>
-[Download untracked Mp3 here]()
+
+[Download untracked Mp3 here](https://archive.org/download/tshp-ep12/tshp-ep12.mp3)
+
+***There is a video that I recorded for this to show Hubzilla. I will post it tomarrow in it's own post.***
 
 #### Preroll
 Quick bit of news and then we play with Hubzilla. Right here on episode 12 of The Self Hosted Podcast!
