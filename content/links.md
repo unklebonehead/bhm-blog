@@ -18,6 +18,7 @@ The site that was instrumental in getting me started with self hosting and takin
 
 #### Self Hosting
 [Yunohost](https://yunohost.org) | 
+
 [Yunohost Forum](https://forum.yunohost.org/)| 
 
 
@@ -33,6 +34,7 @@ The site that was instrumental in getting me started with self hosting and takin
 [Fediverse Services](https://fediverse.services) | 
 
 [FediverseParty](https://www.fediverse.party/) | 
+
 [Libravatar](https://www.libravatar.org/) | 
 
 
