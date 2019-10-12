@@ -10,7 +10,7 @@ tags:
   - Self Hosting
   - Tutorial
 ---
-<iframe width="560" height="315" sandbox="allow-same-origin allow-scripts" src="https://peertube.boneheadmedia.com/videos/embed/dd4bff16-765e-47ef-a3ca-01c316fef08e" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" sandbox="allow-same-origin allow-scripts" src="https://peertube.social/videos/embed/dc92a2a3-2bb0-458c-9cca-a7485c7e194e" frameborder="0" allowfullscreen></iframe>
 
 Just me showing you what I am currently using on my own home server.
 Airsonic

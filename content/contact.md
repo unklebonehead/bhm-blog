@@ -31,5 +31,5 @@ menu = "main"
 
 To subscribe in your favorite podcatcher use the trusty old  [RSS Feed](https://anchor.fm/s/d16639c/podcast/rss) 
 #### Subscribe to The Self Hosted Vidcast only on
-[PeerTube](https://peertube.boneheadmedia.com) - Currently down!
+[PeerTube](unklebonehead@peertube.social) - I just recently moved to Peertube.Social so it will take me a bit to get all my vids back up.
 ### For TruckinNutz, NTROradio and Break19 Podcast you can find them in any android or apple app. They are also on Anchor.fm
