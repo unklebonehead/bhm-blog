@@ -38,5 +38,5 @@ The site that was instrumental in getting me started with self hosting and takin
 [Libravatar](https://www.libravatar.org/) | 
 
 
-#### Intersting reading
+#### Interesting reading
 [The art of not asking why](https://joshrollinswrites.com/)
