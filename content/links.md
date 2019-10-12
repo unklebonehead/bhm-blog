@@ -3,7 +3,7 @@ title: "Important Links"
 date: "2019-10-05"
 menu: "main"
 ---
-### Important Links
+
 The site that was instrumental in getting me started with self hosting and taking control of my data. Was down for a short time but is now back online with several maintainers. This site is where I found Yunohost and all the tools I needed to kick the big tech companies out of my life forever.
 
 **[Switching Software](https://switching.software/) - formerly known as Switching Social** | 
