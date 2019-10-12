@@ -16,12 +16,20 @@ featureImage: "img/bhm2.png"
 [Download untracked Mp3 here]()
 
 #### Preroll
-Quick bit of news and then we install and play wiht Hubzilla. Right here on episode 12 of The Self Hosted Podcast!
+Quick bit of news and then we play with Hubzilla. Right here on episode 12 of The Self Hosted Podcast!
 
 #### Housekeeping
 Yunohost has been upgraded to 3.6.5.2 along with Yunohost Admin panel. It is now at 3.6.5.
 Nextcloud-ynh has also been updated to 15.0.11.
-I ran into an issue just after upgrading. I was getting an "api not responding" error and ended up logging out and doing something else for about 10 minutes. When I logged back in everything was working so it seems to have fixed itself and all is right in the world of the bonehead.
+I ran into an issue just after upgrading. I was getting an "api not responding" error and ended up logging out and doing something else for about 10 minutes. When I logged back in everything was working so it seems to have fixed itself and all is right in the world of the bonehead. It turns out that this is normal. Some apps will need to restart nginx which during this time the admin panel cannot access it. So just be patient and it will fix itself.
+
+**Yunohost is looking for help in translations.**
+If you can help by doing some translations please go [here.](https://translate.yunohost.org/)
+I got an email from one of the devs and they say that they need the most help with 
+>When running YunoHost in any locale, (even English) it still remains the case that the stringbase is lacking, or flat out erroneous.
+
+Dont know if I should let this cat out of the bag yet but I'm going to. Yunohost is going to start a blog for news and updates. You can help with this if you like by folowing the repo on [github](https://github.com/YunoHost/news).
+
 
 #### Hubzilla
 [Yunohost package](https://github.com/YunoHost-Apps/hubzilla_ynh/blob/master/README.md)
@@ -36,3 +44,4 @@ Hubzilla is a social networking platform built with control of your privacy at c
 
 It does require a dedicated domain so if you are using a domain from Yunohost you wont be able to install it. If you have your own domain such as boneheadmedia.com you can intstall it in a subdomain such as hub.boneheadmedia.com.
 It also requires that you have an ssl cert.
+
