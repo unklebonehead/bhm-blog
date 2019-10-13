@@ -1,7 +1,7 @@
 ---
 title: "TSHV-Ep7 TSHP Cross Post Hubzilla"
 date: 2019-10-13T13:22:54-04:00
-draft: true
+draft: false
 categories:
   - Software Development
 tags:
