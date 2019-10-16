@@ -1,7 +1,7 @@
 ---
 title: "Do I start another podcast?"
 date: 2019-10-16T07:30:14-04:00
-draft: true
+draft: false
 categories:
   - blog
 tags:
