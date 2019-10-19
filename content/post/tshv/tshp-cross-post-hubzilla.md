@@ -3,9 +3,9 @@ title: "TSHV-Ep7 TSHP Cross Post Hubzilla"
 date: 2019-10-13T13:22:54-04:00
 draft: false
 categories:
-  - Software Development
+  - tshv
 tags:
-  - Untagged
+  - hubzilla
 ---
 
 <iframe width="560" height="315" sandbox="allow-same-origin allow-scripts" src="https://peertube.social/videos/embed/1d429197-8aa5-44b3-826a-beb7e992d9b1" frameborder="0" allowfullscreen></iframe>

@@ -14,3 +14,11 @@ I like to tinker with the Gnu Image Manipulation Program and Inkscape. I create 
 I do create my own original music and will randomly post them on here or soundcloud. I've used Reaper, Presonus Studio One, Pro Tools, Ardour, The Non Suite and Audacity. But my absolute favorite DAW is Ardour with Reaper in a close 2nd. Ardour wins in my opinion because it is open source.
 I have only recently actually started enjoying producing video and it still isnt what I would say in my top prorities. I still hate editing video and I will only make a video if I can do it in one take.
 
+### The Self Hosted Podcast
+Started as a way for me to showcase [Yunohost](https://yunohost.org) but is quickly evolving into everything that encompasses the fediverse.
+
+Music provided by [Unfa](https://pateron.com/unfa)
+
+Some sound effects and clips by [Unfa](https://freesound.org/people/unfa/)
+
+Female voice is a screen reader app that I cant find a link to anymore so I dont think it is in development. But it is open source and runs on Ubuntu using espeak on the backend.
