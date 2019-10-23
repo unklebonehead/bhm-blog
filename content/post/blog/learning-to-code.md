@@ -27,3 +27,6 @@ Something that is
 - Auto posts to your social media including the Fediverse.
 
 I know thats probably a pipe dream app/distro I have dreamed up and it will most likely end up being done by some company like Adobe and be commercially available for a mere $599.99. But thats what I want to create. Thats what I want to do. Something that will make it super simple, super easy and keep users data private let people create audio and video podcasts whenever they want, wherever they want and not have to worry about constantly keeping a bunch of apps and an OS in sync with updates because the app is the OS. Now go ahead, laugh and call me crazy. Because I am.
+##### Quick tip
+Make sure you let the upload finish before you disconnect from the internet! LOL!
+Yeah, Im bonehead!
