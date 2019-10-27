@@ -10,7 +10,7 @@ tags:
   - Self Hosting
   - Tutorial
 ---
-<iframe width="560" height="315" sandbox="allow-same-origin allow-scripts" src="https://peertube.boneheadmedia.com/videos/embed/f569e4c3-01b4-4bc1-a62a-ff1e30ae006a" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" sandbox="allow-same-origin allow-scripts" src="https://peertube.social/videos/embed/b7348a52-76db-4b7d-aba2-9dcbeb84ca7b" frameborder="0" allowfullscreen></iframe>
 
 The step called "post-installation" is actually the initial configuration of YunoHost. It has to be done just after the installation of the system itself.
 You can do it from through ssh, directly on the server or through a web browser. The browser is what I did because it is the easiest for people like me. Who dont know what they are doing.
