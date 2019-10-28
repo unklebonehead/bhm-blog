@@ -1,5 +1,5 @@
 ---
-title: "Ep14 Fedi-lert, Red Alert!"
+title: "Ep14 Pubcast, WriteFreely and Plume"
 date: 2019-10-27T14:19:07-04:00
 draft: false
 categories:
