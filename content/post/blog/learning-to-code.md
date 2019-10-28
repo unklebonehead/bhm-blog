@@ -17,13 +17,21 @@ Being the cheapskate that I am and wanting to do this without having to go to a 
 I thought I already said that. But ok there are some other reasons. I want to work with the devs on [Yunohost](https://yunohost.org) and I want to know and understand Hubzilla and the rest of the Fediverse better. I think it would probably help me with talking about it if I understood it better. I'm just a dude that like to read, talk and write about stuff I find cool. But If I could help out by coding something simple then I should know how to do it. Many hands make for light work is what I was taught growning up. So if I can help I want to help.
 Also I've seen some pretty cool projects for podcasting coming out. And as you can guess they are windows or mac only. Thats just annoying as hell to me and I would love to have a desktop app that is just for podcasting. Not some "system" that you use thats made up of a bunch of different apps. But a all in one app that is essentially a distro that can be installed on anything. Yes a custom distro that is nothing but this app. I've seen something simialr to this that I cant think of the name of several years ago. It was based on Arch and essentially was Mixxx DJ software that you could run from a usb stick or install on a dedicated laptop and take it with you to a gig. Set it up and leave it and not worry about loosing your data if someone walked up to it. 
 Something that is
+
 - Multi track audio/video without midi.
+
 - including editor and mixing windows like Ardour
+
 - compressor, eq mixing and mastering plugins
+
 - audio over ip for remote guests
+
 - syncs with Etherpad, CodiMD or Nextcloud notes for shownotes no google docs
+
 - live streaming to PeerTube, Youtube and Twitch and shoutcast/icecast capabilities for audio only live stream remotes on your website or radio station of your choice.
+
 - simultaniously auto publish media file to the storage of your choice (Anchor, Lbsyn, Simplecast, Archive.org, etc), show notes published to your website (Wordpress, github pages, Netlify, etc).
+
 - Auto posts to your social media including the Fediverse.
 
 I know thats probably a pipe dream app/distro I have dreamed up and it will most likely end up being done by some company like Adobe and be commercially available for a mere $599.99. But thats what I want to create. Thats what I want to do. Something that will make it super simple, super easy and keep users data private let people create audio and video podcasts whenever they want, wherever they want and not have to worry about constantly keeping a bunch of apps and an OS in sync with updates because the app is the OS. Now go ahead, laugh and call me crazy. Because I am.
