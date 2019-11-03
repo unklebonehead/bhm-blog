@@ -6,7 +6,7 @@ categories:
   - tshp
 tags:
   - tshp
-  - fediverse
+  - fedinews
 ---
 <audio controls>
     <source src="https://archive.org/download/tshp-ep13/tshp-ep13.mp3">

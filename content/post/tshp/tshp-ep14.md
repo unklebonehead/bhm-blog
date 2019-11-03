@@ -5,7 +5,7 @@ draft: false
 categories:
   - tshp
 tags:
-  - fediverse
+  - fedinews
   - writefreely
   - plume
   - pubcast
