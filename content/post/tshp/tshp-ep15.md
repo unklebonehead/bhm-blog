@@ -1,7 +1,7 @@
 ---
 title: "TSHP-Ep15 This is some scary s**t"
 date: 2019-11-01T06:38:35-04:00
-draft: true
+draft: false
 categories:
   - tshp
 tags:
