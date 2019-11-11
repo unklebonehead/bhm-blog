@@ -4,7 +4,7 @@ date = "2019-10-05"
 menu = "main"
 +++
 #### Socialize with me
-***My main hubzilla is where you will find me most.***
+***Mastodon.social is where you will find me most since my server is down for an undetermined time!***
 
 [Hubzilla **Main**] (https://hzhome.ntroradio.com/channel/unklebonehead) | [Hubzilla **Clone**](https://zotum.net/channel/unklebonehead) 
 
@@ -12,7 +12,7 @@ menu = "main"
 
 [Pixelfed](https://pixelfed.social/unklebonehead) | 
 
-[Email Me](mailto:unklebonehead@ubmedia.nohost.me) 
+[Email Me](mailto:unklebonehead@nixnet.email) 
 
 #### Subscribe to the The Self Hosted Podcast through these awesome apps
 [Anchor.fm](https://anchor.fm/tshp) |
