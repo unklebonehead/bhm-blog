@@ -1,8 +1,13 @@
 +++
-title = "Support Me"
+title = "Support Us"
 date = "2019-10-05"
 menu = "main"
 +++
+#### Support those who need it the most!
+[Ella K.,Cyberpunk Goddess](@ella_kane@hackers.town) aka [Eloisa & them Seagulls](@eloisa@masto.pt)
+
+[Amazon wishlist in Spanish](https://www.amazon.es/hz/wishlist/ls/1YB3XXRK5TWH1) | [Amazon wishlist in English](https://www.amazon.com/registry/wishlist/26OM415O8PB9K/)
+
 #### Please help me if you can
 I've been hosting all my content at home on my personal server at home but I will soon be out of room on it and the network traffic is almost too much for it to handle. If you can spare a little change and throw it my way I would appreciate it a lot. I'm only looking for $60-$70 for a years worth of hosting. Any amount over and beyond that will be donated to an awesome open source project that you the listeners and contributors will vote on. 
 You can dontae through the following links.
