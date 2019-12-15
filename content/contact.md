@@ -5,6 +5,8 @@ menu = "main"
 +++
 #### Socialize with me
 
+### Starting 2019-12-15 you can watch me record every episode every weekend **LIVE** on [Dlive](https://dlive.tv/RealUnkleBonehead)! I will also be streaming live periodicaly through out the week!
+
 You can follow the rss of Bonehead Media site through ActivityPub by using @BoneheadMedia@bots.tinysubversions.com - this is not a feed I can respond to, but for you to catch the feed updates on social media that use ActivityPub ie Mastodon.
 
 [Mastodon](https://mastodon.social/@unklebonehead) | [Pixelfed](https://pixelfed.social/unklebonehead) | [Email Me](mailto:unklebonehead@nixnet.email) | Hubzilla - I will get this back up when I get a vps.
