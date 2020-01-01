@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>linux on Bonehead Media</title>
+    <link>https://boneheadmedia.com/tags/linux/</link>
+    <description>Recent content in linux on Bonehead Media</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyleft © 2019, All original content on this site is Creative Commons 4.0 Non Commercial-Share alike.</copyright>
+    <lastBuildDate>Fri, 01 Nov 2019 06:38:35 -0400</lastBuildDate>
+    
+	<atom:link href="https://boneheadmedia.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TSHP-Ep15 This is some scary s**t</title>
+      <link>https://boneheadmedia.com/post/tshp/tshp-ep15/</link>
+      <pubDate>Fri, 01 Nov 2019 06:38:35 -0400</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshp/tshp-ep15/</guid>
+      <description>Download Mp3
+News Links Yunohost 3.7 Testing asking for feedback
+ We just released a new testing version for YunoHost and would be happy to receive feedback before releasing it as a stable version :yum:
+This release includes quite important changes in YunoHost’s internal, and therefore requires careful validation to minimize the amount of remaining bugs.
+ Major changes are: - Group and permission mechanism
+ Improvements to detect app installs that broke critical parts of the system.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -9,4 +9,4 @@ tags:
 ---
 
 **Insert Lead paragraph here.**
-<iframe src="https://bhstudio.nohost.me:8999/public/ntroradio/embed" frameborder="0" allowtransparency="true" style="width: 100%; min-height: 150px; border: 0;"></iframe>
+<iframe src="https://admin.ntroradio.com/public/ntroradio/embed" frameborder="0" allowtransparency="true" style="width: 100%; min-height: 150px; border: 0;"></iframe>

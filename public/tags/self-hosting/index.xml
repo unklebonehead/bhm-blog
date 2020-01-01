@@ -6,10 +6,21 @@
     <description>Recent content in Self Hosting on Bonehead Media</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyleft © 2019, All original content on this site is Creative Commons 4.0 Non Commercial-Share alike.</copyright>
-    <lastBuildDate>Sun, 08 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://boneheadmedia.com/tags/self-hosting/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ep11 News and Updates</title>
+      <link>https://boneheadmedia.com/post/tshp/ep11-news-and-updates/</link>
+      <pubDate>Wed, 09 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshp/ep11-news-and-updates/</guid>
+      <description>Download untracked Mp3 here
+I&amp;rsquo;m back! Now with a redneck, tricked out Frankenputer latop. But its powered by KDENeon and backedup by Yunohost. It&amp;rsquo;s episode 11 and I got some news, opinions and updates for you right here, right now on The Self Hosted Podcast.
+Housekeeping My laptop broke. Thats why I&amp;rsquo;ve been silent. But I was able to jerry rig it enough that its usable. I&amp;rsquo;ll post pics or you can go see them on Mastodon.</description>
+    </item>
     
     <item>
       <title>Ep10 Communication on Yunohost</title>

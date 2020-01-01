@@ -6,24 +6,60 @@
     <description>Recent content in Categories on Bonehead Media</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyleft © 2019, All original content on this site is Creative Commons 4.0 Non Commercial-Share alike.</copyright>
-    <lastBuildDate>Sun, 08 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2019 11:06:35 -0500</lastBuildDate>
     
 	<atom:link href="https://boneheadmedia.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>seflhosting</title>
+      <link>https://boneheadmedia.com/categories/seflhosting/</link>
+      <pubDate>Tue, 31 Dec 2019 11:06:35 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/categories/seflhosting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>tshp</title>
       <link>https://boneheadmedia.com/categories/tshp/</link>
-      <pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 22 Dec 2019 10:54:54 -0500</pubDate>
       
       <guid>https://boneheadmedia.com/categories/tshp/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>blog</title>
+      <link>https://boneheadmedia.com/categories/blog/</link>
+      <pubDate>Fri, 29 Nov 2019 18:59:01 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/categories/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>funkwhale</title>
+      <link>https://boneheadmedia.com/categories/funkwhale/</link>
+      <pubDate>Fri, 29 Nov 2019 18:59:01 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/categories/funkwhale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fediverse</title>
+      <link>https://boneheadmedia.com/categories/fediverse/</link>
+      <pubDate>Fri, 29 Nov 2019 07:10:07 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/categories/fediverse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>tshv</title>
       <link>https://boneheadmedia.com/categories/tshv/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 13 Oct 2019 13:22:54 -0400</pubDate>
       
       <guid>https://boneheadmedia.com/categories/tshv/</guid>
       <description></description>

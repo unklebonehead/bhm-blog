@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fediverse on Bonehead Media</title>
+    <link>https://boneheadmedia.com/categories/fediverse/</link>
+    <description>Recent content in fediverse on Bonehead Media</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyleft © 2019, All original content on this site is Creative Commons 4.0 Non Commercial-Share alike.</copyright>
+    <lastBuildDate>Fri, 29 Nov 2019 07:10:07 -0500</lastBuildDate>
+    
+	<atom:link href="https://boneheadmedia.com/categories/fediverse/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TSHP Ep19 Funkwhale - Putting the Pod back into Podcasting</title>
+      <link>https://boneheadmedia.com/post/tshp/ep19/</link>
+      <pubDate>Fri, 29 Nov 2019 07:10:07 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshp/ep19/</guid>
+      <description>Download Here
+Music provided by Unfa
+Internet Archive could use your support! &amp;gt;I ask only once a year: please help the Internet Archive today. Right now, we have a 2-to-1 Matching Gift Campaign, so you can triple your impact! Most can’t afford to give, but we hope you can. The average donation is $45. If everyone reading this chips in just $5, we can end this fundraiser today. All we need is the price of a paperback book to sustain a non-profit website the whole world depends on.</description>
+    </item>
+    
+  </channel>
+</rss>

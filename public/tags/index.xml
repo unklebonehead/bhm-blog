@@ -6,26 +6,215 @@
     <description>Recent content in Tags on Bonehead Media</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyleft © 2019, All original content on this site is Creative Commons 4.0 Non Commercial-Share alike.</copyright>
-    <lastBuildDate>Sun, 08 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2019 11:06:35 -0500</lastBuildDate>
     
 	<atom:link href="https://boneheadmedia.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Self Hosting</title>
-      <link>https://boneheadmedia.com/tags/self-hosting/</link>
-      <pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate>
+      <title>blog</title>
+      <link>https://boneheadmedia.com/tags/blog/</link>
+      <pubDate>Tue, 31 Dec 2019 11:06:35 -0500</pubDate>
       
-      <guid>https://boneheadmedia.com/tags/self-hosting/</guid>
+      <guid>https://boneheadmedia.com/tags/blog/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Podcasting</title>
+      <title>ipfs</title>
+      <link>https://boneheadmedia.com/tags/ipfs/</link>
+      <pubDate>Tue, 31 Dec 2019 11:06:35 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/tags/ipfs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>azuracast</title>
+      <link>https://boneheadmedia.com/tags/azuracast/</link>
+      <pubDate>Sun, 22 Dec 2019 10:54:54 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/tags/azuracast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fediverse</title>
+      <link>https://boneheadmedia.com/tags/fediverse/</link>
+      <pubDate>Sun, 22 Dec 2019 10:54:54 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/tags/fediverse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>news</title>
+      <link>https://boneheadmedia.com/tags/news/</link>
+      <pubDate>Sun, 22 Dec 2019 10:54:54 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/tags/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christmas</title>
+      <link>https://boneheadmedia.com/tags/christmas/</link>
+      <pubDate>Sun, 15 Dec 2019 09:48:49 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/tags/christmas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ntroradio</title>
+      <link>https://boneheadmedia.com/tags/ntroradio/</link>
+      <pubDate>Sun, 15 Dec 2019 09:48:49 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/tags/ntroradio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fedverse</title>
+      <link>https://boneheadmedia.com/tags/fedverse/</link>
+      <pubDate>Fri, 13 Dec 2019 05:29:08 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/tags/fedverse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>live</title>
+      <link>https://boneheadmedia.com/tags/live/</link>
+      <pubDate>Fri, 13 Dec 2019 05:29:08 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/tags/live/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>funkwhale</title>
+      <link>https://boneheadmedia.com/tags/funkwhale/</link>
+      <pubDate>Fri, 29 Nov 2019 07:10:07 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/tags/funkwhale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>peertube</title>
+      <link>https://boneheadmedia.com/tags/peertube/</link>
+      <pubDate>Sat, 16 Nov 2019 19:02:16 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/tags/peertube/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>writefreely</title>
+      <link>https://boneheadmedia.com/tags/writefreely/</link>
+      <pubDate>Sat, 16 Nov 2019 19:02:16 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/tags/writefreely/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>limesurvey</title>
+      <link>https://boneheadmedia.com/tags/limesurvey/</link>
+      <pubDate>Wed, 06 Nov 2019 13:04:49 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/tags/limesurvey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>yunohost</title>
+      <link>https://boneheadmedia.com/tags/yunohost/</link>
+      <pubDate>Wed, 06 Nov 2019 13:04:49 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/tags/yunohost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fedinews</title>
+      <link>https://boneheadmedia.com/tags/fedinews/</link>
+      <pubDate>Fri, 01 Nov 2019 06:38:35 -0400</pubDate>
+      
+      <guid>https://boneheadmedia.com/tags/fedinews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://boneheadmedia.com/tags/linux/</link>
+      <pubDate>Fri, 01 Nov 2019 06:38:35 -0400</pubDate>
+      
+      <guid>https://boneheadmedia.com/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>plume</title>
+      <link>https://boneheadmedia.com/tags/plume/</link>
+      <pubDate>Sun, 27 Oct 2019 14:19:07 -0400</pubDate>
+      
+      <guid>https://boneheadmedia.com/tags/plume/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pubcast</title>
+      <link>https://boneheadmedia.com/tags/pubcast/</link>
+      <pubDate>Sun, 27 Oct 2019 14:19:07 -0400</pubDate>
+      
+      <guid>https://boneheadmedia.com/tags/pubcast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>code</title>
+      <link>https://boneheadmedia.com/tags/code/</link>
+      <pubDate>Wed, 23 Oct 2019 09:00:36 -0400</pubDate>
+      
+      <guid>https://boneheadmedia.com/tags/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tshp</title>
+      <link>https://boneheadmedia.com/tags/tshp/</link>
+      <pubDate>Sat, 19 Oct 2019 07:14:05 -0400</pubDate>
+      
+      <guid>https://boneheadmedia.com/tags/tshp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>podcasting</title>
       <link>https://boneheadmedia.com/tags/podcasting/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 16 Oct 2019 09:31:55 -0400</pubDate>
       
       <guid>https://boneheadmedia.com/tags/podcasting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hubzilla</title>
+      <link>https://boneheadmedia.com/tags/hubzilla/</link>
+      <pubDate>Sun, 13 Oct 2019 14:14:31 -0400</pubDate>
+      
+      <guid>https://boneheadmedia.com/tags/hubzilla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self Hosting</title>
+      <link>https://boneheadmedia.com/tags/self-hosting/</link>
+      <pubDate>Wed, 09 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://boneheadmedia.com/tags/self-hosting/</guid>
       <description></description>
     </item>
     
@@ -35,15 +224,6 @@
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://boneheadmedia.com/tags/tutorial/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>yunohost</title>
-      <link>https://boneheadmedia.com/tags/yunohost/</link>
-      <pubDate>Mon, 01 Jul 2019 07:45:31 -0400</pubDate>
-      
-      <guid>https://boneheadmedia.com/tags/yunohost/</guid>
       <description></description>
     </item>
     
@@ -71,15 +251,6 @@
       <pubDate>Sun, 16 Jun 2019 16:13:10 -0400</pubDate>
       
       <guid>https://boneheadmedia.com/tags/truckinnutz/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NTROradio</title>
-      <link>https://boneheadmedia.com/tags/ntroradio/</link>
-      <pubDate>Sun, 16 Jun 2019 16:06:55 -0400</pubDate>
-      
-      <guid>https://boneheadmedia.com/tags/ntroradio/</guid>
       <description></description>
     </item>
     

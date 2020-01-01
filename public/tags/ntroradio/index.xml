@@ -1,15 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>NTROradio on Bonehead Media</title>
+    <title>ntroradio on Bonehead Media</title>
     <link>https://boneheadmedia.com/tags/ntroradio/</link>
-    <description>Recent content in NTROradio on Bonehead Media</description>
+    <description>Recent content in ntroradio on Bonehead Media</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyleft © 2019, All original content on this site is Creative Commons 4.0 Non Commercial-Share alike.</copyright>
-    <lastBuildDate>Sun, 16 Jun 2019 16:06:55 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 15 Dec 2019 09:48:49 -0500</lastBuildDate>
     
 	<atom:link href="https://boneheadmedia.com/tags/ntroradio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>TSHP Ep20.5 Merry Christmas from Bonehead Media</title>
+      <link>https://boneheadmedia.com/post/tshp/ep20-5/</link>
+      <pubDate>Sun, 15 Dec 2019 09:48:49 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshp/ep20-5/</guid>
+      <description>Download MP3 here
+You can watch LIVE me on DLive! This is not a normal episode!
+This is a replay of my last Christmas show. It originaly aired both in the feed for The Unkle Bonehead Show and on UBSN.net. My first radio station that was all me. In it you will here me reference. Linux for the rest of us training videos. They are still available but pretty dated since this was recorded 2011-12-24.</description>
+    </item>
+    
+    <item>
+      <title>NTRO radio is back and better than ever!</title>
+      <link>https://boneheadmedia.com/post/blog/ntroradioisback/</link>
+      <pubDate>Fri, 29 Nov 2019 18:59:01 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/blog/ntroradioisback/</guid>
+      <description>This post was updated on 2019-12-08
+So NTROradio has been reborn! It is now a Funkwhale instance running on my new Yunohost server in my home. I&amp;rsquo;ll tell you more about it in this weeks podcast but just suffice it to say the hard drive died and I swapped it out with a new one.
+Above you shoule be seeing an empeded player from NTROradio with my demo cover of Bat Out of Hell.</description>
+    </item>
     
     <item>
       <title>NTROradio Is Cancelled-Maybe Not</title>

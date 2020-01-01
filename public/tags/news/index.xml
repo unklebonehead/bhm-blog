@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>news on Bonehead Media</title>
+    <link>https://boneheadmedia.com/tags/news/</link>
+    <description>Recent content in news on Bonehead Media</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyleft © 2019, All original content on this site is Creative Commons 4.0 Non Commercial-Share alike.</copyright>
+    <lastBuildDate>Sun, 22 Dec 2019 10:54:54 -0500</lastBuildDate>
+    
+	<atom:link href="https://boneheadmedia.com/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ep21 Azuracast, IPFS and Data Detox Kit</title>
+      <link>https://boneheadmedia.com/post/tshp/ep21/</link>
+      <pubDate>Sun, 22 Dec 2019 10:54:54 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshp/ep21/</guid>
+      <description>Its a new year and now is the perfect time for you to make the commitment to protecting yourself, your privacy and your data. How? By self hosting of course! Self hosted radio station, websites and files and detoxing your data all right here, right now on The Self Hosted Podcast!
+Banter Over the last 20 episodes I&amp;rsquo;ve focussed primarily on apps that can be installed and used through Yunohost.</description>
+    </item>
+    
+    <item>
+      <title>TSHP-Ep20 Changing My Mind, Again!</title>
+      <link>https://boneheadmedia.com/post/tshp/ep20/</link>
+      <pubDate>Fri, 13 Dec 2019 05:29:08 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshp/ep20/</guid>
+      <description>Download MP3 file
+Preroll I&amp;rsquo;m tring something new, Pixelfed is in the news and a whole lot more coming up in number 20 of The Self Hosted Podcast!
+Housekeeping and Support Support Framasoft- They are looking to bring live streaming to PeerTube!
+Tool Tip VSCodium
+News Fediverse Pixelfed awarded grant from NLnet
+Russian Police Raid NGINX
+Zepplin Ransomware targets Tech and Health Co
+Snatch ransomware reboots windows in safe mode to bypass antivirus</description>
+    </item>
+    
+    <item>
+      <title>TSHP Ep19 Funkwhale - Putting the Pod back into Podcasting</title>
+      <link>https://boneheadmedia.com/post/tshp/ep19/</link>
+      <pubDate>Fri, 29 Nov 2019 07:10:07 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshp/ep19/</guid>
+      <description>Download Here
+Music provided by Unfa
+Internet Archive could use your support! &amp;gt;I ask only once a year: please help the Internet Archive today. Right now, we have a 2-to-1 Matching Gift Campaign, so you can triple your impact! Most can’t afford to give, but we hope you can. The average donation is $45. If everyone reading this chips in just $5, we can end this fundraiser today. All we need is the price of a paperback book to sustain a non-profit website the whole world depends on.</description>
+    </item>
+    
+    <item>
+      <title>Ep18 LollipopCloud and Funkwhale Podcasters Group</title>
+      <link>https://boneheadmedia.com/post/tshp/ep18/</link>
+      <pubDate>Sat, 23 Nov 2019 20:52:32 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshp/ep18/</guid>
+      <description>Download Mp3
+Email me at unklebonehead@nixnet.email **This episode is brought to you by LollipopCloud
+Housekeeping  @Naschbarschaft on Mastodon alerted me to mp3 enclosures were not in the rss feed for Bonehead Media.com Thank you I am learning how to put them into the rss templates in hugo. I will get this fixed.
+ I didnt get to go home again so I&amp;rsquo;m in the truck again recording this.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ipfs on Bonehead Media</title>
+    <link>https://boneheadmedia.com/tags/ipfs/</link>
+    <description>Recent content in ipfs on Bonehead Media</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyleft © 2019, All original content on this site is Creative Commons 4.0 Non Commercial-Share alike.</copyright>
+    <lastBuildDate>Tue, 31 Dec 2019 11:06:35 -0500</lastBuildDate>
+    
+	<atom:link href="https://boneheadmedia.com/tags/ipfs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ipfs Enabled</title>
+      <link>https://boneheadmedia.com/post/blog/ipfs-enabled/</link>
+      <pubDate>Tue, 31 Dec 2019 11:06:35 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/blog/ipfs-enabled/</guid>
+      <description>In episode 21 of The Self Hosted Podcast I talked about IPFS. Well if you are reading this then I did it. This website is now on IPFS and you if I did it right it looks no different than the regular website. Which I hope I got it right because that would be so cool. But I still dont like that whatever you put on IPFS it&amp;rsquo;s online forever. So you better be sure you stand behind what you say and dont change your mind.</description>
+    </item>
+    
+    <item>
+      <title>Ep21 Azuracast, IPFS and Data Detox Kit</title>
+      <link>https://boneheadmedia.com/post/tshp/ep21/</link>
+      <pubDate>Sun, 22 Dec 2019 10:54:54 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshp/ep21/</guid>
+      <description>Its a new year and now is the perfect time for you to make the commitment to protecting yourself, your privacy and your data. How? By self hosting of course! Self hosted radio station, websites and files and detoxing your data all right here, right now on The Self Hosted Podcast!
+Banter Over the last 20 episodes I&amp;rsquo;ve focussed primarily on apps that can be installed and used through Yunohost.</description>
+    </item>
+    
+  </channel>
+</rss>

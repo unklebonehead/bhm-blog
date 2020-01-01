@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>seflhosting on Bonehead Media</title>
+    <link>https://boneheadmedia.com/categories/seflhosting/</link>
+    <description>Recent content in seflhosting on Bonehead Media</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyleft © 2019, All original content on this site is Creative Commons 4.0 Non Commercial-Share alike.</copyright>
+    <lastBuildDate>Tue, 31 Dec 2019 11:06:35 -0500</lastBuildDate>
+    
+	<atom:link href="https://boneheadmedia.com/categories/seflhosting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ipfs Enabled</title>
+      <link>https://boneheadmedia.com/post/blog/ipfs-enabled/</link>
+      <pubDate>Tue, 31 Dec 2019 11:06:35 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/blog/ipfs-enabled/</guid>
+      <description>In episode 21 of The Self Hosted Podcast I talked about IPFS. Well if you are reading this then I did it. This website is now on IPFS and you if I did it right it looks no different than the regular website. Which I hope I got it right because that would be so cool. But I still dont like that whatever you put on IPFS it&amp;rsquo;s online forever. So you better be sure you stand behind what you say and dont change your mind.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>azuracast on Bonehead Media</title>
+    <link>https://boneheadmedia.com/tags/azuracast/</link>
+    <description>Recent content in azuracast on Bonehead Media</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyleft © 2019, All original content on this site is Creative Commons 4.0 Non Commercial-Share alike.</copyright>
+    <lastBuildDate>Sun, 22 Dec 2019 10:54:54 -0500</lastBuildDate>
+    
+	<atom:link href="https://boneheadmedia.com/tags/azuracast/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ep21 Azuracast, IPFS and Data Detox Kit</title>
+      <link>https://boneheadmedia.com/post/tshp/ep21/</link>
+      <pubDate>Sun, 22 Dec 2019 10:54:54 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshp/ep21/</guid>
+      <description>Its a new year and now is the perfect time for you to make the commitment to protecting yourself, your privacy and your data. How? By self hosting of course! Self hosted radio station, websites and files and detoxing your data all right here, right now on The Self Hosted Podcast!
+Banter Over the last 20 episodes I&amp;rsquo;ve focussed primarily on apps that can be installed and used through Yunohost.</description>
+    </item>
+    
+  </channel>
+</rss>

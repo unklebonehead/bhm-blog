@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fedinews on Bonehead Media</title>
+    <link>https://boneheadmedia.com/tags/fedinews/</link>
+    <description>Recent content in fedinews on Bonehead Media</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyleft © 2019, All original content on this site is Creative Commons 4.0 Non Commercial-Share alike.</copyright>
+    <lastBuildDate>Fri, 01 Nov 2019 06:38:35 -0400</lastBuildDate>
+    
+	<atom:link href="https://boneheadmedia.com/tags/fedinews/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TSHP-Ep15 This is some scary s**t</title>
+      <link>https://boneheadmedia.com/post/tshp/tshp-ep15/</link>
+      <pubDate>Fri, 01 Nov 2019 06:38:35 -0400</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshp/tshp-ep15/</guid>
+      <description>Download Mp3
+News Links Yunohost 3.7 Testing asking for feedback
+ We just released a new testing version for YunoHost and would be happy to receive feedback before releasing it as a stable version :yum:
+This release includes quite important changes in YunoHost’s internal, and therefore requires careful validation to minimize the amount of remaining bugs.
+ Major changes are: - Group and permission mechanism
+ Improvements to detect app installs that broke critical parts of the system.</description>
+    </item>
+    
+    <item>
+      <title>Ep14 Pubcast, WriteFreely and Plume</title>
+      <link>https://boneheadmedia.com/post/tshp/tshp-ep14/</link>
+      <pubDate>Sun, 27 Oct 2019 14:19:07 -0400</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshp/tshp-ep14/</guid>
+      <description>Download Here
+Music provided by Unfa
+Follow me across the fediverse! unklebonehead@hzhome.ntroradio.com
+So I got started on FreeCodeCamp As I mentioned in a blog post last week I want to learn how to code. Mainly so I can understand the topics I am covering here on this podcast and to help me be a better self hoster but I would love to get a new job where I am home a lot more than just 34 hrs a week.</description>
+    </item>
+    
+    <item>
+      <title>TSHP Ep13</title>
+      <link>https://boneheadmedia.com/post/tshp/tshp-ep13/</link>
+      <pubDate>Sat, 19 Oct 2019 07:14:05 -0400</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshp/tshp-ep13/</guid>
+      <description>Download Mp3
+PreRoll Advert - This episode is brought to you by The Fediverse. The Fediverse is a collection of nearly 40 decentralized apps that can connect with each other. You can join or even host an instance yourself on your own server. More than just social networks they cover just about everything from blogging to cloud storage. PeerTube, Plume, FunkWhale Visit Fediverse Party to learn more today!</description>
+    </item>
+    
+  </channel>
+</rss>

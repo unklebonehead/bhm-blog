@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>plume on Bonehead Media</title>
+    <link>https://boneheadmedia.com/tags/plume/</link>
+    <description>Recent content in plume on Bonehead Media</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyleft © 2019, All original content on this site is Creative Commons 4.0 Non Commercial-Share alike.</copyright>
+    <lastBuildDate>Sun, 27 Oct 2019 14:19:07 -0400</lastBuildDate>
+    
+	<atom:link href="https://boneheadmedia.com/tags/plume/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ep14 Pubcast, WriteFreely and Plume</title>
+      <link>https://boneheadmedia.com/post/tshp/tshp-ep14/</link>
+      <pubDate>Sun, 27 Oct 2019 14:19:07 -0400</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshp/tshp-ep14/</guid>
+      <description>Download Here
+Music provided by Unfa
+Follow me across the fediverse! unklebonehead@hzhome.ntroradio.com
+So I got started on FreeCodeCamp As I mentioned in a blog post last week I want to learn how to code. Mainly so I can understand the topics I am covering here on this podcast and to help me be a better self hoster but I would love to get a new job where I am home a lot more than just 34 hrs a week.</description>
+    </item>
+    
+  </channel>
+</rss>

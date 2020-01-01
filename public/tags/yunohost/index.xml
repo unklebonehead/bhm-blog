@@ -6,10 +6,47 @@
     <description>Recent content in yunohost on Bonehead Media</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyleft © 2019, All original content on this site is Creative Commons 4.0 Non Commercial-Share alike.</copyright>
-    <lastBuildDate>Mon, 01 Jul 2019 07:45:31 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2019 13:04:49 -0500</lastBuildDate>
     
 	<atom:link href="https://boneheadmedia.com/tags/yunohost/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ep16 LimeSurvey and being dealt a shitty day</title>
+      <link>https://boneheadmedia.com/post/tshp/ep16/</link>
+      <pubDate>Wed, 06 Nov 2019 13:04:49 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshp/ep16/</guid>
+      <description>Download Mp3
+Big update since the recording! new contact email is unklebonehead@nixnet.email
+News Massive exodus of India&amp;rsquo;s Twitter moved to Mastodon - This is a bull shit quote from the article. &amp;gt;While many have hailed Mastodon as a great alternative to Twitter, some have pointed out that its not as easy to use, which means its unlikely that Mastodon is going to take over - even in the long term.</description>
+    </item>
+    
+    <item>
+      <title>TSHP-Ep15 This is some scary s**t</title>
+      <link>https://boneheadmedia.com/post/tshp/tshp-ep15/</link>
+      <pubDate>Fri, 01 Nov 2019 06:38:35 -0400</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshp/tshp-ep15/</guid>
+      <description>Download Mp3
+News Links Yunohost 3.7 Testing asking for feedback
+ We just released a new testing version for YunoHost and would be happy to receive feedback before releasing it as a stable version :yum:
+This release includes quite important changes in YunoHost’s internal, and therefore requires careful validation to minimize the amount of remaining bugs.
+ Major changes are: - Group and permission mechanism
+ Improvements to detect app installs that broke critical parts of the system.</description>
+    </item>
+    
+    <item>
+      <title>Ep12 Hubzilla and More News</title>
+      <link>https://boneheadmedia.com/post/tshp/ep12-hubzilla-and-more-news/</link>
+      <pubDate>Fri, 11 Oct 2019 04:44:13 -0400</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshp/ep12-hubzilla-and-more-news/</guid>
+      <description>Download untracked Mp3 here
+There is a video that I recorded for this to show Hubzilla. I will post it tomarrow in it&amp;rsquo;s own post.
+Preroll Quick bit of news and then we play with Hubzilla. Right here on episode 12 of The Self Hosted Podcast!
+Housekeeping Yunohost has been upgraded to 3.6.5.2 along with Yunohost Admin panel. It is now at 3.6.5. Nextcloud-ynh has also been updated to 15.</description>
+    </item>
     
     <item>
       <title>Now With Less Google</title>

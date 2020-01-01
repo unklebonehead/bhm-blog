@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fediverse on Bonehead Media</title>
+    <link>https://boneheadmedia.com/tags/fediverse/</link>
+    <description>Recent content in fediverse on Bonehead Media</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyleft © 2019, All original content on this site is Creative Commons 4.0 Non Commercial-Share alike.</copyright>
+    <lastBuildDate>Sun, 22 Dec 2019 10:54:54 -0500</lastBuildDate>
+    
+	<atom:link href="https://boneheadmedia.com/tags/fediverse/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ep21 Azuracast, IPFS and Data Detox Kit</title>
+      <link>https://boneheadmedia.com/post/tshp/ep21/</link>
+      <pubDate>Sun, 22 Dec 2019 10:54:54 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshp/ep21/</guid>
+      <description>Its a new year and now is the perfect time for you to make the commitment to protecting yourself, your privacy and your data. How? By self hosting of course! Self hosted radio station, websites and files and detoxing your data all right here, right now on The Self Hosted Podcast!
+Banter Over the last 20 episodes I&amp;rsquo;ve focussed primarily on apps that can be installed and used through Yunohost.</description>
+    </item>
+    
+    <item>
+      <title>Ep18 LollipopCloud and Funkwhale Podcasters Group</title>
+      <link>https://boneheadmedia.com/post/tshp/ep18/</link>
+      <pubDate>Sat, 23 Nov 2019 20:52:32 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshp/ep18/</guid>
+      <description>Download Mp3
+Email me at unklebonehead@nixnet.email **This episode is brought to you by LollipopCloud
+Housekeeping  @Naschbarschaft on Mastodon alerted me to mp3 enclosures were not in the rss feed for Bonehead Media.com Thank you I am learning how to put them into the rss templates in hugo. I will get this fixed.
+ I didnt get to go home again so I&amp;rsquo;m in the truck again recording this.</description>
+    </item>
+    
+    <item>
+      <title>Quick Update 2019-11-17</title>
+      <link>https://boneheadmedia.com/post/blog/quick-update/</link>
+      <pubDate>Sun, 17 Nov 2019 11:54:54 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/blog/quick-update/</guid>
+      <description>You can now follow just Bonehead Media on activitypub Just search in your favorite activitypub app ie Mastodon, Hubzilla, etc for @BoneheadMedia@bots.tinysubversions.com And you should be able to subscribe to this website&amp;rsquo;s rss though activitypub. I used the Feed Converter by Darius Kazemi. It&amp;rsquo;s a free service that he hosts and I hope to implement it on my own for others as he does once I get a VPS set up.</description>
+    </item>
+    
+    <item>
+      <title>TSHP-Ep-17 Epic News</title>
+      <link>https://boneheadmedia.com/post/tshp/ep17/</link>
+      <pubDate>Sat, 16 Nov 2019 19:02:16 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshp/ep17/</guid>
+      <description>Download Mp3
+This episode is brought to you by NixNet where freedom is served with a slice of liberty.
+Pre Roll Recording on the run, a whole bunch of super exciting news in the Fediverse and a whole lot more coming up on episode 17 of The Self Hosted Podcast!
+Banter  This episode will be out the week of November 17th. By the end of this week this podcast will have well over 1000 downloads on Anchor.</description>
+    </item>
+    
+    <item>
+      <title>Ep16 LimeSurvey and being dealt a shitty day</title>
+      <link>https://boneheadmedia.com/post/tshp/ep16/</link>
+      <pubDate>Wed, 06 Nov 2019 13:04:49 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshp/ep16/</guid>
+      <description>Download Mp3
+Big update since the recording! new contact email is unklebonehead@nixnet.email
+News Massive exodus of India&amp;rsquo;s Twitter moved to Mastodon - This is a bull shit quote from the article. &amp;gt;While many have hailed Mastodon as a great alternative to Twitter, some have pointed out that its not as easy to use, which means its unlikely that Mastodon is going to take over - even in the long term.</description>
+    </item>
+    
+    <item>
+      <title>Taking the Plunge on Full</title>
+      <link>https://boneheadmedia.com/post/blog/taking-the-plunge-on-full/</link>
+      <pubDate>Sun, 13 Oct 2019 14:14:31 -0400</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/blog/taking-the-plunge-on-full/</guid>
+      <description>Hubzilla hour 36 update Well it&amp;rsquo;s been just over 36 hrs I&amp;rsquo;ve been on Hubzilla and I really do still like it. Wait, I love it! I like it so much that I am considering take the full on plunge and going in up to my neck in it. I want to get into exeriencing the full effect with the webpages app and build a site out of it. Just to see what I can do with my measley coding skills.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>code on Bonehead Media</title>
+    <link>https://boneheadmedia.com/tags/code/</link>
+    <description>Recent content in code on Bonehead Media</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyleft © 2019, All original content on this site is Creative Commons 4.0 Non Commercial-Share alike.</copyright>
+    <lastBuildDate>Wed, 23 Oct 2019 09:00:36 -0400</lastBuildDate>
+    
+	<atom:link href="https://boneheadmedia.com/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>I want learn how to Code</title>
+      <link>https://boneheadmedia.com/post/blog/learning-to-code/</link>
+      <pubDate>Wed, 23 Oct 2019 09:00:36 -0400</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/blog/learning-to-code/</guid>
+      <description>Cool, wait, You? Yes me. I&amp;rsquo;m actually feeling a &amp;ldquo;want to know how&amp;rdquo;. That&amp;rsquo;s really the only way I know how to express it. As some of you know, I&amp;rsquo;ve used linux for a vey long time. Since mid 2010 I&amp;rsquo;ve been running some form of Linux as a daily driver and it&amp;rsquo;s been mostly Ubuntu/Debian flavors with the exception of the two weeks I tried to install Arch the &amp;ldquo;Arch way&amp;rdquo;.</description>
+    </item>
+    
+  </channel>
+</rss>

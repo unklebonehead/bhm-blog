@@ -6,10 +6,245 @@
     <description>Recent content in Posts on Bonehead Media</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyleft © 2019, All original content on this site is Creative Commons 4.0 Non Commercial-Share alike.</copyright>
-    <lastBuildDate>Sun, 08 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2019 11:06:35 -0500</lastBuildDate>
     
 	<atom:link href="https://boneheadmedia.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ipfs Enabled</title>
+      <link>https://boneheadmedia.com/post/blog/ipfs-enabled/</link>
+      <pubDate>Tue, 31 Dec 2019 11:06:35 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/blog/ipfs-enabled/</guid>
+      <description>In episode 21 of The Self Hosted Podcast I talked about IPFS. Well if you are reading this then I did it. This website is now on IPFS and you if I did it right it looks no different than the regular website. Which I hope I got it right because that would be so cool. But I still dont like that whatever you put on IPFS it&amp;rsquo;s online forever. So you better be sure you stand behind what you say and dont change your mind.</description>
+    </item>
+    
+    <item>
+      <title>I Am Not Slacking</title>
+      <link>https://boneheadmedia.com/post/blog/i-am-not-slacking/</link>
+      <pubDate>Thu, 26 Dec 2019 18:30:42 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/blog/i-am-not-slacking/</guid>
+      <description>**I can assure you I am not slacking. I will be recordng a new episode this weekend while streaming on both Dlive and a test station I have been setting up for NTROradio. I would share the link for NTROradio with all of you but it&amp;rsquo;s far from being ready for more than a few select people I trust to listen directly to my personal server. Lets just say that I have a friend with a lot of experience playing around with Azuracast and he is putting it through some tests.</description>
+    </item>
+    
+    <item>
+      <title>Ep21 Azuracast, IPFS and Data Detox Kit</title>
+      <link>https://boneheadmedia.com/post/tshp/ep21/</link>
+      <pubDate>Sun, 22 Dec 2019 10:54:54 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshp/ep21/</guid>
+      <description>Its a new year and now is the perfect time for you to make the commitment to protecting yourself, your privacy and your data. How? By self hosting of course! Self hosted radio station, websites and files and detoxing your data all right here, right now on The Self Hosted Podcast!
+Banter Over the last 20 episodes I&amp;rsquo;ve focussed primarily on apps that can be installed and used through Yunohost.</description>
+    </item>
+    
+    <item>
+      <title>TSHP Ep20.5 Merry Christmas from Bonehead Media</title>
+      <link>https://boneheadmedia.com/post/tshp/ep20-5/</link>
+      <pubDate>Sun, 15 Dec 2019 09:48:49 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshp/ep20-5/</guid>
+      <description>Download MP3 here
+You can watch LIVE me on DLive! This is not a normal episode!
+This is a replay of my last Christmas show. It originaly aired both in the feed for The Unkle Bonehead Show and on UBSN.net. My first radio station that was all me. In it you will here me reference. Linux for the rest of us training videos. They are still available but pretty dated since this was recorded 2011-12-24.</description>
+    </item>
+    
+    <item>
+      <title>TSHP-Ep20 Changing My Mind, Again!</title>
+      <link>https://boneheadmedia.com/post/tshp/ep20/</link>
+      <pubDate>Fri, 13 Dec 2019 05:29:08 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshp/ep20/</guid>
+      <description>Download MP3 file
+Preroll I&amp;rsquo;m tring something new, Pixelfed is in the news and a whole lot more coming up in number 20 of The Self Hosted Podcast!
+Housekeeping and Support Support Framasoft- They are looking to bring live streaming to PeerTube!
+Tool Tip VSCodium
+News Fediverse Pixelfed awarded grant from NLnet
+Russian Police Raid NGINX
+Zepplin Ransomware targets Tech and Health Co
+Snatch ransomware reboots windows in safe mode to bypass antivirus</description>
+    </item>
+    
+    <item>
+      <title>NTRO radio is back and better than ever!</title>
+      <link>https://boneheadmedia.com/post/blog/ntroradioisback/</link>
+      <pubDate>Fri, 29 Nov 2019 18:59:01 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/blog/ntroradioisback/</guid>
+      <description>This post was updated on 2019-12-08
+So NTROradio has been reborn! It is now a Funkwhale instance running on my new Yunohost server in my home. I&amp;rsquo;ll tell you more about it in this weeks podcast but just suffice it to say the hard drive died and I swapped it out with a new one.
+Above you shoule be seeing an empeded player from NTROradio with my demo cover of Bat Out of Hell.</description>
+    </item>
+    
+    <item>
+      <title>TSHP Ep19 Funkwhale - Putting the Pod back into Podcasting</title>
+      <link>https://boneheadmedia.com/post/tshp/ep19/</link>
+      <pubDate>Fri, 29 Nov 2019 07:10:07 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshp/ep19/</guid>
+      <description>Download Here
+Music provided by Unfa
+Internet Archive could use your support! &amp;gt;I ask only once a year: please help the Internet Archive today. Right now, we have a 2-to-1 Matching Gift Campaign, so you can triple your impact! Most can’t afford to give, but we hope you can. The average donation is $45. If everyone reading this chips in just $5, we can end this fundraiser today. All we need is the price of a paperback book to sustain a non-profit website the whole world depends on.</description>
+    </item>
+    
+    <item>
+      <title>Ep18 LollipopCloud and Funkwhale Podcasters Group</title>
+      <link>https://boneheadmedia.com/post/tshp/ep18/</link>
+      <pubDate>Sat, 23 Nov 2019 20:52:32 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshp/ep18/</guid>
+      <description>Download Mp3
+Email me at unklebonehead@nixnet.email **This episode is brought to you by LollipopCloud
+Housekeeping  @Naschbarschaft on Mastodon alerted me to mp3 enclosures were not in the rss feed for Bonehead Media.com Thank you I am learning how to put them into the rss templates in hugo. I will get this fixed.
+ I didnt get to go home again so I&amp;rsquo;m in the truck again recording this.</description>
+    </item>
+    
+    <item>
+      <title>Quick Update 2019-11-17</title>
+      <link>https://boneheadmedia.com/post/blog/quick-update/</link>
+      <pubDate>Sun, 17 Nov 2019 11:54:54 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/blog/quick-update/</guid>
+      <description>You can now follow just Bonehead Media on activitypub Just search in your favorite activitypub app ie Mastodon, Hubzilla, etc for @BoneheadMedia@bots.tinysubversions.com And you should be able to subscribe to this website&amp;rsquo;s rss though activitypub. I used the Feed Converter by Darius Kazemi. It&amp;rsquo;s a free service that he hosts and I hope to implement it on my own for others as he does once I get a VPS set up.</description>
+    </item>
+    
+    <item>
+      <title>TSHP-Ep-17 Epic News</title>
+      <link>https://boneheadmedia.com/post/tshp/ep17/</link>
+      <pubDate>Sat, 16 Nov 2019 19:02:16 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshp/ep17/</guid>
+      <description>Download Mp3
+This episode is brought to you by NixNet where freedom is served with a slice of liberty.
+Pre Roll Recording on the run, a whole bunch of super exciting news in the Fediverse and a whole lot more coming up on episode 17 of The Self Hosted Podcast!
+Banter  This episode will be out the week of November 17th. By the end of this week this podcast will have well over 1000 downloads on Anchor.</description>
+    </item>
+    
+    <item>
+      <title>Ep16 LimeSurvey and being dealt a shitty day</title>
+      <link>https://boneheadmedia.com/post/tshp/ep16/</link>
+      <pubDate>Wed, 06 Nov 2019 13:04:49 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshp/ep16/</guid>
+      <description>Download Mp3
+Big update since the recording! new contact email is unklebonehead@nixnet.email
+News Massive exodus of India&amp;rsquo;s Twitter moved to Mastodon - This is a bull shit quote from the article. &amp;gt;While many have hailed Mastodon as a great alternative to Twitter, some have pointed out that its not as easy to use, which means its unlikely that Mastodon is going to take over - even in the long term.</description>
+    </item>
+    
+    <item>
+      <title>TSHP-Ep15 This is some scary s**t</title>
+      <link>https://boneheadmedia.com/post/tshp/tshp-ep15/</link>
+      <pubDate>Fri, 01 Nov 2019 06:38:35 -0400</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshp/tshp-ep15/</guid>
+      <description>Download Mp3
+News Links Yunohost 3.7 Testing asking for feedback
+ We just released a new testing version for YunoHost and would be happy to receive feedback before releasing it as a stable version :yum:
+This release includes quite important changes in YunoHost’s internal, and therefore requires careful validation to minimize the amount of remaining bugs.
+ Major changes are: - Group and permission mechanism
+ Improvements to detect app installs that broke critical parts of the system.</description>
+    </item>
+    
+    <item>
+      <title>Ep14 Pubcast, WriteFreely and Plume</title>
+      <link>https://boneheadmedia.com/post/tshp/tshp-ep14/</link>
+      <pubDate>Sun, 27 Oct 2019 14:19:07 -0400</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshp/tshp-ep14/</guid>
+      <description>Download Here
+Music provided by Unfa
+Follow me across the fediverse! unklebonehead@hzhome.ntroradio.com
+So I got started on FreeCodeCamp As I mentioned in a blog post last week I want to learn how to code. Mainly so I can understand the topics I am covering here on this podcast and to help me be a better self hoster but I would love to get a new job where I am home a lot more than just 34 hrs a week.</description>
+    </item>
+    
+    <item>
+      <title>I want learn how to Code</title>
+      <link>https://boneheadmedia.com/post/blog/learning-to-code/</link>
+      <pubDate>Wed, 23 Oct 2019 09:00:36 -0400</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/blog/learning-to-code/</guid>
+      <description>Cool, wait, You? Yes me. I&amp;rsquo;m actually feeling a &amp;ldquo;want to know how&amp;rdquo;. That&amp;rsquo;s really the only way I know how to express it. As some of you know, I&amp;rsquo;ve used linux for a vey long time. Since mid 2010 I&amp;rsquo;ve been running some form of Linux as a daily driver and it&amp;rsquo;s been mostly Ubuntu/Debian flavors with the exception of the two weeks I tried to install Arch the &amp;ldquo;Arch way&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>TSHP Ep13</title>
+      <link>https://boneheadmedia.com/post/tshp/tshp-ep13/</link>
+      <pubDate>Sat, 19 Oct 2019 07:14:05 -0400</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshp/tshp-ep13/</guid>
+      <description>Download Mp3
+PreRoll Advert - This episode is brought to you by The Fediverse. The Fediverse is a collection of nearly 40 decentralized apps that can connect with each other. You can join or even host an instance yourself on your own server. More than just social networks they cover just about everything from blogging to cloud storage. PeerTube, Plume, FunkWhale Visit Fediverse Party to learn more today!</description>
+    </item>
+    
+    <item>
+      <title>Great Podcasts Without the Fluff</title>
+      <link>https://boneheadmedia.com/post/blog/great-podcasts-without-the-fluff/</link>
+      <pubDate>Wed, 16 Oct 2019 09:31:55 -0400</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/blog/great-podcasts-without-the-fluff/</guid>
+      <description>So I did some thinking about my last post After chewing on that last post for a couple of days I thought I should mention some good podcasts that done have the crap of the fluff taking up 50% of thier episodes. Now let me just say that these are not free from advertising. But the adverts in them are done tastefully and dont take up half the show. And they will actually respond to an email from someone who isnt a patron on patreon.</description>
+    </item>
+    
+    <item>
+      <title>Do I start another podcast?</title>
+      <link>https://boneheadmedia.com/post/blog/considering-a-new-podcast/</link>
+      <pubDate>Wed, 16 Oct 2019 07:30:14 -0400</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/blog/considering-a-new-podcast/</guid>
+      <description>I have to admit that I&amp;rsquo;m actually considering it You may have figured out by now that when I find something new the first thing I do is look for a podcast about it. I know I&amp;rsquo;m not the only one in the world that does this. But this time I&amp;rsquo;m not so sure about starting it. I want to do it but I dont want to, lol. I&amp;rsquo;m so indecisive.</description>
+    </item>
+    
+    <item>
+      <title>Taking the Plunge on Full</title>
+      <link>https://boneheadmedia.com/post/blog/taking-the-plunge-on-full/</link>
+      <pubDate>Sun, 13 Oct 2019 14:14:31 -0400</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/blog/taking-the-plunge-on-full/</guid>
+      <description>Hubzilla hour 36 update Well it&amp;rsquo;s been just over 36 hrs I&amp;rsquo;ve been on Hubzilla and I really do still like it. Wait, I love it! I like it so much that I am considering take the full on plunge and going in up to my neck in it. I want to get into exeriencing the full effect with the webpages app and build a site out of it. Just to see what I can do with my measley coding skills.</description>
+    </item>
+    
+    <item>
+      <title>TSHV-Ep7 TSHP Cross Post Hubzilla</title>
+      <link>https://boneheadmedia.com/post/tshv/tshp-cross-post-hubzilla/</link>
+      <pubDate>Sun, 13 Oct 2019 13:22:54 -0400</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshv/tshp-cross-post-hubzilla/</guid>
+      <description>As promised yesterday I said I would post this today. Well here it is. I recorded this episode while recording TSHP Ep12. I did this so you can actually see with your own eyes Hubzilla. In my own humble and honest opinion it is probably the most powerful app on the fediverse. - It can interact with Ostatus, ActivityPup, Freindica, diaspora and just about anything out there.
+ It has apps out the wazoo for you to do anything with.</description>
+    </item>
+    
+    <item>
+      <title>Some Updates</title>
+      <link>https://boneheadmedia.com/post/blog/some-updates/</link>
+      <pubDate>Fri, 11 Oct 2019 21:11:06 -0400</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/blog/some-updates/</guid>
+      <description>In case you hadn&amp;rsquo;t noticed I&amp;rsquo;ve been a bit busy here recently. Not only has the entire site been redone but it&amp;rsquo;s still not complete. While it is complete enough to get going with new content. Here is what I&amp;rsquo;ve done. - Now made with Hugo! I went back to Hugo because I like the simplicity of it and how I can make changes right on my laptop during the week.</description>
+    </item>
+    
+    <item>
+      <title>Ep12 Hubzilla and More News</title>
+      <link>https://boneheadmedia.com/post/tshp/ep12-hubzilla-and-more-news/</link>
+      <pubDate>Fri, 11 Oct 2019 04:44:13 -0400</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshp/ep12-hubzilla-and-more-news/</guid>
+      <description>Download untracked Mp3 here
+There is a video that I recorded for this to show Hubzilla. I will post it tomarrow in it&amp;rsquo;s own post.
+Preroll Quick bit of news and then we play with Hubzilla. Right here on episode 12 of The Self Hosted Podcast!
+Housekeeping Yunohost has been upgraded to 3.6.5.2 along with Yunohost Admin panel. It is now at 3.6.5. Nextcloud-ynh has also been updated to 15.</description>
+    </item>
+    
+    <item>
+      <title>Ep11 News and Updates</title>
+      <link>https://boneheadmedia.com/post/tshp/ep11-news-and-updates/</link>
+      <pubDate>Wed, 09 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshp/ep11-news-and-updates/</guid>
+      <description>Download untracked Mp3 here
+I&amp;rsquo;m back! Now with a redneck, tricked out Frankenputer latop. But its powered by KDENeon and backedup by Yunohost. It&amp;rsquo;s episode 11 and I got some news, opinions and updates for you right here, right now on The Self Hosted Podcast.
+Housekeeping My laptop broke. Thats why I&amp;rsquo;ve been silent. But I was able to jerry rig it enough that its usable. I&amp;rsquo;ll post pics or you can go see them on Mastodon.</description>
+    </item>
     
     <item>
       <title>Ep10 Communication on Yunohost</title>

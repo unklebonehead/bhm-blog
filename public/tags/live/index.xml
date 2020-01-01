@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>live on Bonehead Media</title>
+    <link>https://boneheadmedia.com/tags/live/</link>
+    <description>Recent content in live on Bonehead Media</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyleft © 2019, All original content on this site is Creative Commons 4.0 Non Commercial-Share alike.</copyright>
+    <lastBuildDate>Fri, 13 Dec 2019 05:29:08 -0500</lastBuildDate>
+    
+	<atom:link href="https://boneheadmedia.com/tags/live/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TSHP-Ep20 Changing My Mind, Again!</title>
+      <link>https://boneheadmedia.com/post/tshp/ep20/</link>
+      <pubDate>Fri, 13 Dec 2019 05:29:08 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshp/ep20/</guid>
+      <description>Download MP3 file
+Preroll I&amp;rsquo;m tring something new, Pixelfed is in the news and a whole lot more coming up in number 20 of The Self Hosted Podcast!
+Housekeeping and Support Support Framasoft- They are looking to bring live streaming to PeerTube!
+Tool Tip VSCodium
+News Fediverse Pixelfed awarded grant from NLnet
+Russian Police Raid NGINX
+Zepplin Ransomware targets Tech and Health Co
+Snatch ransomware reboots windows in safe mode to bypass antivirus</description>
+    </item>
+    
+  </channel>
+</rss>

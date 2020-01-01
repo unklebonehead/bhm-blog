@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>funkwhale on Bonehead Media</title>
+    <link>https://boneheadmedia.com/categories/funkwhale/</link>
+    <description>Recent content in funkwhale on Bonehead Media</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyleft © 2019, All original content on this site is Creative Commons 4.0 Non Commercial-Share alike.</copyright>
+    <lastBuildDate>Fri, 29 Nov 2019 18:59:01 -0500</lastBuildDate>
+    
+	<atom:link href="https://boneheadmedia.com/categories/funkwhale/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>NTRO radio is back and better than ever!</title>
+      <link>https://boneheadmedia.com/post/blog/ntroradioisback/</link>
+      <pubDate>Fri, 29 Nov 2019 18:59:01 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/blog/ntroradioisback/</guid>
+      <description>This post was updated on 2019-12-08
+So NTROradio has been reborn! It is now a Funkwhale instance running on my new Yunohost server in my home. I&amp;rsquo;ll tell you more about it in this weeks podcast but just suffice it to say the hard drive died and I swapped it out with a new one.
+Above you shoule be seeing an empeded player from NTROradio with my demo cover of Bat Out of Hell.</description>
+    </item>
+    
+    <item>
+      <title>TSHP Ep19 Funkwhale - Putting the Pod back into Podcasting</title>
+      <link>https://boneheadmedia.com/post/tshp/ep19/</link>
+      <pubDate>Fri, 29 Nov 2019 07:10:07 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshp/ep19/</guid>
+      <description>Download Here
+Music provided by Unfa
+Internet Archive could use your support! &amp;gt;I ask only once a year: please help the Internet Archive today. Right now, we have a 2-to-1 Matching Gift Campaign, so you can triple your impact! Most can’t afford to give, but we hope you can. The average donation is $45. If everyone reading this chips in just $5, we can end this fundraiser today. All we need is the price of a paperback book to sustain a non-profit website the whole world depends on.</description>
+    </item>
+    
+  </channel>
+</rss>

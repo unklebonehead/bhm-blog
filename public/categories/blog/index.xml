@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on Bonehead Media</title>
+    <link>https://boneheadmedia.com/categories/blog/</link>
+    <description>Recent content in blog on Bonehead Media</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyleft © 2019, All original content on this site is Creative Commons 4.0 Non Commercial-Share alike.</copyright>
+    <lastBuildDate>Fri, 29 Nov 2019 18:59:01 -0500</lastBuildDate>
+    
+	<atom:link href="https://boneheadmedia.com/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>NTRO radio is back and better than ever!</title>
+      <link>https://boneheadmedia.com/post/blog/ntroradioisback/</link>
+      <pubDate>Fri, 29 Nov 2019 18:59:01 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/blog/ntroradioisback/</guid>
+      <description>This post was updated on 2019-12-08
+So NTROradio has been reborn! It is now a Funkwhale instance running on my new Yunohost server in my home. I&amp;rsquo;ll tell you more about it in this weeks podcast but just suffice it to say the hard drive died and I swapped it out with a new one.
+Above you shoule be seeing an empeded player from NTROradio with my demo cover of Bat Out of Hell.</description>
+    </item>
+    
+    <item>
+      <title>Quick Update 2019-11-17</title>
+      <link>https://boneheadmedia.com/post/blog/quick-update/</link>
+      <pubDate>Sun, 17 Nov 2019 11:54:54 -0500</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/blog/quick-update/</guid>
+      <description>You can now follow just Bonehead Media on activitypub Just search in your favorite activitypub app ie Mastodon, Hubzilla, etc for @BoneheadMedia@bots.tinysubversions.com And you should be able to subscribe to this website&amp;rsquo;s rss though activitypub. I used the Feed Converter by Darius Kazemi. It&amp;rsquo;s a free service that he hosts and I hope to implement it on my own for others as he does once I get a VPS set up.</description>
+    </item>
+    
+    <item>
+      <title>I want learn how to Code</title>
+      <link>https://boneheadmedia.com/post/blog/learning-to-code/</link>
+      <pubDate>Wed, 23 Oct 2019 09:00:36 -0400</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/blog/learning-to-code/</guid>
+      <description>Cool, wait, You? Yes me. I&amp;rsquo;m actually feeling a &amp;ldquo;want to know how&amp;rdquo;. That&amp;rsquo;s really the only way I know how to express it. As some of you know, I&amp;rsquo;ve used linux for a vey long time. Since mid 2010 I&amp;rsquo;ve been running some form of Linux as a daily driver and it&amp;rsquo;s been mostly Ubuntu/Debian flavors with the exception of the two weeks I tried to install Arch the &amp;ldquo;Arch way&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Great Podcasts Without the Fluff</title>
+      <link>https://boneheadmedia.com/post/blog/great-podcasts-without-the-fluff/</link>
+      <pubDate>Wed, 16 Oct 2019 09:31:55 -0400</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/blog/great-podcasts-without-the-fluff/</guid>
+      <description>So I did some thinking about my last post After chewing on that last post for a couple of days I thought I should mention some good podcasts that done have the crap of the fluff taking up 50% of thier episodes. Now let me just say that these are not free from advertising. But the adverts in them are done tastefully and dont take up half the show. And they will actually respond to an email from someone who isnt a patron on patreon.</description>
+    </item>
+    
+    <item>
+      <title>Do I start another podcast?</title>
+      <link>https://boneheadmedia.com/post/blog/considering-a-new-podcast/</link>
+      <pubDate>Wed, 16 Oct 2019 07:30:14 -0400</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/blog/considering-a-new-podcast/</guid>
+      <description>I have to admit that I&amp;rsquo;m actually considering it You may have figured out by now that when I find something new the first thing I do is look for a podcast about it. I know I&amp;rsquo;m not the only one in the world that does this. But this time I&amp;rsquo;m not so sure about starting it. I want to do it but I dont want to, lol. I&amp;rsquo;m so indecisive.</description>
+    </item>
+    
+    <item>
+      <title>Taking the Plunge on Full</title>
+      <link>https://boneheadmedia.com/post/blog/taking-the-plunge-on-full/</link>
+      <pubDate>Sun, 13 Oct 2019 14:14:31 -0400</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/blog/taking-the-plunge-on-full/</guid>
+      <description>Hubzilla hour 36 update Well it&amp;rsquo;s been just over 36 hrs I&amp;rsquo;ve been on Hubzilla and I really do still like it. Wait, I love it! I like it so much that I am considering take the full on plunge and going in up to my neck in it. I want to get into exeriencing the full effect with the webpages app and build a site out of it. Just to see what I can do with my measley coding skills.</description>
+    </item>
+    
+    <item>
+      <title>Some Updates</title>
+      <link>https://boneheadmedia.com/post/blog/some-updates/</link>
+      <pubDate>Fri, 11 Oct 2019 21:11:06 -0400</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/blog/some-updates/</guid>
+      <description>In case you hadn&amp;rsquo;t noticed I&amp;rsquo;ve been a bit busy here recently. Not only has the entire site been redone but it&amp;rsquo;s still not complete. While it is complete enough to get going with new content. Here is what I&amp;rsquo;ve done. - Now made with Hugo! I went back to Hugo because I like the simplicity of it and how I can make changes right on my laptop during the week.</description>
+    </item>
+    
+  </channel>
+</rss>

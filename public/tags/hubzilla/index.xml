@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hubzilla on Bonehead Media</title>
+    <link>https://boneheadmedia.com/tags/hubzilla/</link>
+    <description>Recent content in hubzilla on Bonehead Media</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyleft © 2019, All original content on this site is Creative Commons 4.0 Non Commercial-Share alike.</copyright>
+    <lastBuildDate>Sun, 13 Oct 2019 14:14:31 -0400</lastBuildDate>
+    
+	<atom:link href="https://boneheadmedia.com/tags/hubzilla/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Taking the Plunge on Full</title>
+      <link>https://boneheadmedia.com/post/blog/taking-the-plunge-on-full/</link>
+      <pubDate>Sun, 13 Oct 2019 14:14:31 -0400</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/blog/taking-the-plunge-on-full/</guid>
+      <description>Hubzilla hour 36 update Well it&amp;rsquo;s been just over 36 hrs I&amp;rsquo;ve been on Hubzilla and I really do still like it. Wait, I love it! I like it so much that I am considering take the full on plunge and going in up to my neck in it. I want to get into exeriencing the full effect with the webpages app and build a site out of it. Just to see what I can do with my measley coding skills.</description>
+    </item>
+    
+    <item>
+      <title>TSHV-Ep7 TSHP Cross Post Hubzilla</title>
+      <link>https://boneheadmedia.com/post/tshv/tshp-cross-post-hubzilla/</link>
+      <pubDate>Sun, 13 Oct 2019 13:22:54 -0400</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshv/tshp-cross-post-hubzilla/</guid>
+      <description>As promised yesterday I said I would post this today. Well here it is. I recorded this episode while recording TSHP Ep12. I did this so you can actually see with your own eyes Hubzilla. In my own humble and honest opinion it is probably the most powerful app on the fediverse. - It can interact with Ostatus, ActivityPup, Freindica, diaspora and just about anything out there.
+ It has apps out the wazoo for you to do anything with.</description>
+    </item>
+    
+    <item>
+      <title>Ep12 Hubzilla and More News</title>
+      <link>https://boneheadmedia.com/post/tshp/ep12-hubzilla-and-more-news/</link>
+      <pubDate>Fri, 11 Oct 2019 04:44:13 -0400</pubDate>
+      
+      <guid>https://boneheadmedia.com/post/tshp/ep12-hubzilla-and-more-news/</guid>
+      <description>Download untracked Mp3 here
+There is a video that I recorded for this to show Hubzilla. I will post it tomarrow in it&amp;rsquo;s own post.
+Preroll Quick bit of news and then we play with Hubzilla. Right here on episode 12 of The Self Hosted Podcast!
+Housekeeping Yunohost has been upgraded to 3.6.5.2 along with Yunohost Admin panel. It is now at 3.6.5. Nextcloud-ynh has also been updated to 15.</description>
+    </item>
+    
+  </channel>
+</rss>
