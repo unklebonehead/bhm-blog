@@ -11,9 +11,7 @@ You can follow the rss of Bonehead Media site through ActivityPub by using @Bone
 
 I am now on [Socialhome](https://socialhome.network/u/unklebonehead/) @unklebonehead@socialhome.network
 
-[Mastodon](https://mastodon.social/@unklebonehead) | [Pixelfed](https://pixelfed.social/unklebonehead) | [Email Me](mailto:unklebonehead@nixnet.email) | Hubzilla - I will get this back up when I get a vps.
-
-***Mastodon is where you will find me the most. This is to interact with me on a one on one basis easiest.***
+[Mastodon](https://mastodon.social/@unklebonehead) | [Pixelfed](https://pixelfed.social/unklebonehead) | [Email Me](mailto:unklebonehead@nixnet.email) 
 
 #### Subscribe in an Rss feed reader
 ***There is no tracking on this feed from me. This feed is generated from a search queary on Archive.org.***
