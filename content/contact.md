@@ -5,19 +5,20 @@ menu = "main"
 +++
 #### Socialize with me
 
-### Starting 2019-12-15 you can watch me record every episode every weekend **LIVE** on [Dlive](https://dlive.tv/RealUnkleBonehead)! I will also be streaming live periodicaly through out the week!
+### Sometimes on the weekends I will stream **LIVE** on [Dlive](https://dlive.tv/RealUnkleBonehead)! I will also be streaming live periodicaly through out the week!
 
 You can follow the rss of Bonehead Media site through ActivityPub by using @BoneheadMedia@bots.tinysubversions.com - this is not a feed I can respond to, but for you to catch the feed updates on social media that use ActivityPub ie Mastodon.
+
+I am now on [Socialhome](https://socialhome.network/u/unklebonehead/) @unklebonehead@socialhome.network
 
 [Mastodon](https://mastodon.social/@unklebonehead) | [Pixelfed](https://pixelfed.social/unklebonehead) | [Email Me](mailto:unklebonehead@nixnet.email) | Hubzilla - I will get this back up when I get a vps.
 
 ***Mastodon is where you will find me the most. This is to interact with me on a one on one basis easiest.***
 
 #### Subscribe in an Rss feed reader
-***There is no tracking on this feed from me. Media files are stored on and downloaded from Archive.org.***
-I am aware that the mp3 enclosures do not show in a proper podcast app such as AntennaePod. I am working on getting this fixed. For now a work around is to open the episodes shownotes in your mobile browser and just download or listen to it there.
+***There is no tracking on this feed from me. This feed is generated from a search queary on Archive.org.***
 
-[No Track Rss](https://boneheadmedia.com/index.xml)
+### NEW [No Track Rss](https://archive.org/advancedsearch.php?q=Unkle+Bonehead&fl%5B%5D=creator&sort%5B%5D=publicdate+desc&sort%5B%5D=&sort%5B%5D=&rows=50&page=1&callback=callback&save=yes&output=rss)
 
 #### Subscribe to the The Self Hosted Podcast through these apps
 ***These apps do have tracking in them. They track download count, location and listening time. Well at least thats what they tell me about.***
@@ -28,4 +29,4 @@ I am aware that the mp3 enclosures do not show in a proper podcast app such as A
 #### Subscribe to The Self Hosted Vidcast only on
 [PeerTube](https://peertube.social/accounts/unklebonehead/video-channels)
 
-**YouTube is coming in 2020!**
+**Dont look for a YouTube channel because, FUCK YouTube!!**
