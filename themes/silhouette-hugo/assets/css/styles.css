@@ -1,5 +1,5 @@
 body {
-    background-color: #898989 !important;
+    background-color: silver !important;
     padding-top: 42px;
 
     display: flex;
@@ -27,7 +27,7 @@ pre {
     padding: 10px;
     border: 1px solid #ccc;
     border-radius: 4px;
-    background-color: #898989;
+    background-color: silver;
 }
 
 a,
@@ -179,7 +179,7 @@ footer hr {
 }
 
 .sidebar {
-    background-color: #898989;
+    background-color: silver;
     border-left: 1px dotted #000;
     padding: 1.5rem 50px 20px 50px;
     flex: 0 0 30rem;
