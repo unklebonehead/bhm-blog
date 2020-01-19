@@ -6,6 +6,10 @@ menu = "main"
 
 If you would like to support me you can find the links at the bottom of the site. But I would rather you support someone on this growing list below. They can use your help way more than I need it. Just you taking the time out of your day to listen and visit my site helps me more than you know.
 
+#### [Ibby Dot Blog](https://ibby.blog)
+
+You can support him through [Librepay](https://liberapay.com/theibbster/) | [Paypal](https://paypal.me/theibbster) and even [UK bank transfer](https://ibby.blog/support)!
+
 #### [Ginny McQueen](https://ginnymcqueen.com/)
 Support her with the following links
 
