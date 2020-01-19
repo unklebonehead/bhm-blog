@@ -1,9 +1,9 @@
 /* Generated with: ./hugo gen chromastyles --style=pygments > syntax.css */
-/* Background */ .chroma {  }
+/* Background */ .chroma { 898989 }
 /* Error */ .chroma .err {  }
 /* LineTableTD */ .chroma .lntd { vertical-align: top; padding: 0; margin: 0; border: 0; }
 /* LineTable */ .chroma .lntable { border-spacing: 0; padding: 0; margin: 0; border: 0; width: auto; overflow: auto; display: block; }
-/* LineHighlight */ .chroma .hl { display: block; width: 100%;background-color: #ffffcc }
+/* LineHighlight */ .chroma .hl { display: block; width: 100%;background-color: #898989 }
 /* LineNumbersTable */ .chroma .lnt { margin-right: 0.4em; padding: 0 0.4em 0 0.4em; }
 /* LineNumbers */ .chroma .ln { margin-right: 0.4em; padding: 0 0.4em 0 0.4em; }
 /* Keyword */ .chroma .k { color: #008000; font-weight: bold }
@@ -66,4 +66,4 @@
 /* GenericSubheading */ .chroma .gu { color: #800080; font-weight: bold }
 /* GenericTraceback */ .chroma .gt { color: #0044dd }
 /* GenericUnderline */ .chroma .gl { text-decoration: underline }
-/* TextWhitespace */ .chroma .w { color: #bbbbbb }
+/* TextWhitespace */ .chroma .w { color: #898989 }

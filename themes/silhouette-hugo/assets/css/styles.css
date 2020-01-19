@@ -1,5 +1,5 @@
 body {
-    background-color: #fafafa !important;
+    background-color: #898989 !important;
     padding-top: 42px;
 
     display: flex;
@@ -27,12 +27,12 @@ pre {
     padding: 10px;
     border: 1px solid #ccc;
     border-radius: 4px;
-    background-color: #f5f5f5;
+    background-color: #898989;
 }
 
 a,
 .text-primary {
-    color: #337ab7;
+    color: #51174E;
     word-wrap: break-word;
 }
 
@@ -55,7 +55,7 @@ a,
 .top-nav a,
 .top-nav a:hover {
     text-decoration: none;
-    color: #fff;
+    color: #51174E;
 }
 
 a.card {
@@ -71,8 +71,8 @@ footer,
 }
 
 .sidebar .badge-secondary {
-    color: #847b79;
-    background-color: #eeedea;
+    color: #51174E;
+    background-color: #747474;
 }
 
 footer {
@@ -90,7 +90,7 @@ footer h5 {
 
 footer h5,
 footer a {
-    color: #e3d096 !important;
+    color: #fff !important;
 }
 
 footer .icons a {
@@ -124,7 +124,7 @@ footer hr {
 
 .recent-posts a.title,
 .recent-posts a.title:hover {
-    color: #222;
+    color: #51174E;
     text-decoration: none;
 }
 
@@ -138,11 +138,11 @@ footer hr {
 }
 
 .share-icons a {
-    color: #eeedea;
+    color: #747474;
 }
 
 .share-icons .fa-inverse {
-    color: #847b79;
+    color: #898989;
 }
 
 .feature-image,
@@ -167,7 +167,7 @@ footer hr {
 
 .white-shadow-text {
     text-shadow: 0 0 3px #222;
-    color: #fcfbf7;
+    color: #747474;
 }
 
 .feature-image-text h1 {
@@ -179,27 +179,27 @@ footer hr {
 }
 
 .sidebar {
-    background-color: #F8F8F8;
-    border-left: 1px dotted #BBB;
+    background-color: #898989;
+    border-left: 1px dotted #000;
     padding: 1.5rem 50px 20px 50px;
     flex: 0 0 30rem;
 }
 
 .sidebar a:hover {
-    color: #23527c;
-    background-color: #eee;
+    color: #300E2E;
+    background-color: #747474;
 }
 
 .btn-outline-secondary {
     color: #333;
-    background-color: #fff;
-    border-color: #ccc;
+    background-color: #898989;
+    border-color: #898989;
 }
 
 a.btn-outline-secondary:hover {
     color: #333;
-    background-color: #e6e6e6;
-    border-color: #adadad;
+    background-color: #898989;
+    border-color: #747474;
 }
 
 .blockquote {
@@ -209,7 +209,7 @@ a.btn-outline-secondary:hover {
     padding: 1.2em 30px 1.2em 75px;
     border-left: 8px solid #78C0A8;
     position: relative;
-    background: #EDEDED;
+    background: #898989;
 }
 
 blockquote::before {
