@@ -4,14 +4,16 @@ date: 2020-01-29T06:46:15-05:00
 draft: false
 categories:
   - truckinnutz
+featureImage: "img/bhm5a.png"
 tags:
   - funkwhale
   - fediverse
   - trucking
 --- 
 
-<iframe src="https://anchor.fm/TruckinNutz/embed/episodes/TN-S2Ep1-Welcom-Home--Drivers-eajgfl" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<audio controls src='https://archive.org/download/tns2ep1/tns2ep1.mp3'></audio>
 
+[Download Mp3](https://archive.org/download/tns2ep1/tns2ep1.mp3)
 **PreRoll**
 Welcome back to TruckinNutz! It's season 2, with the same dude, same ideas but now with more Freedom!
 #### What I've been doing since I last talked to you
