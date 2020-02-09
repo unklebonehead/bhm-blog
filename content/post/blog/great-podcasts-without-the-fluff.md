@@ -26,11 +26,9 @@ After chewing on that last post for a couple of days I thought I should mention 
 
 - Ask Noah
 
-- This Week in Linux
-
 - Linux Unplugged
 
-- Self Hosted (they done even have theme musi...yet)
+- Self Hosted (they dont even have theme musi...yet)
 
 - Steal This Show
 
