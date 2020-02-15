@@ -3,6 +3,9 @@ title = "Contact & Subscribe to the Podcasts"
 date = "2019-10-05"
 menu = "main"
 +++
+<iframe>
+<script>window.podcastData={"title":"The Self Hosted Podcast","subtitle":"Own Your Sh!t","description":"Showing how easy it really is to take back control of your data from the tech giants and stop being a product for them to sell to advertisers.  In this podcast we will explore the many ways to set up and host your own server whether it's in your home or on a remote VPS. How to back up and sync your data, run your own email, chat, VOIP, website, social media, etc. All with ethical, free and open source software.  This is not a \"technical\" podcast. I am an average, everyday dude that has no coding skills. I explain and talk in a normal way that isnt over your head with tech jargon.","cover":"","feeds":[{"type":"audio","format":"mp3","url":"https://anchor.fm/s/d16639c/podcast/rss"}]}</script><script class="podlove-subscribe-button" src="https://cdn.podlove.org/subscribe-button/javascripts/app.js" data-language="en" data-size="big" data-json-data="podcastData" data-color="#5d6971" data-format="square" data-style="filled"></script><noscript><a href="https://anchor.fm/s/d16639c/podcast/rss">Subscribe to feed</a></noscript></iframe>
+
 #### Socialize with me
 
 [Socialhome](https://socialhome.network/u/unklebonehead/) | 
